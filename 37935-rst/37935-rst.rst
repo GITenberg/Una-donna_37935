@@ -1,0 +1,8322 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 37935
+   :PG.Title: Una donna
+   :PG.Released: 2011-11-05
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Claudio Paganelli
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: Una donna
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. style:: block_quote
+   :class: small
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: largeit
+   :class: large italics
+
+.. role:: small
+   :class: small
+
+.. role:: scene
+   :class: italics
+
+=========
+Una donna
+=========
+
+.. _pg-header:
+
+.. container:: pgheader language-en
+
+   .. style:: paragraph
+      :class: noindent
+
+   This eBook is for the use of anyone anywhere at no cost and with
+   almost no restrictions whatsoever. You may copy it, give it away or
+   re-use it under the terms of the `Project Gutenberg License`_
+   included with this eBook or online at
+   http://www.gutenberg.org/license.
+
+   
+
+   |
+
+   .. _pg-machine-header:
+
+   .. container::
+
+      Title: Una donna
+      
+      Author: Roberto Bracco
+      
+      Release Date: November 05, 2011 [EBook #37935]
+      
+      Language: Italian
+      
+      Character set encoding: UTF-8
+
+      |
+
+      .. _pg-start-line:
+
+      \*\*\* START OF THIS PROJECT GUTENBERG EBOOK UNA DONNA \*\*\*
+
+   |
+   |
+   |
+   |
+
+   .. _pg-produced-by:
+
+   .. container::
+
+      Produced by Carlo Traverso, Claudio Paganelli, Barbara Magni, and the Online Distributed Proofreading Team at http://www.pgdp.net.
+
+      |
+
+      This file was produced from images generously made available by The Internet Archive.
+
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME PRIMO`
+   |
+   | NON FARE AD ALTRI... — LUI LEI LUI —
+   | UN'AVVENTURA DI VIAGGIO — **UNA DONNA** —
+   | LE DISILLUSE — DOPO IL VEGLIONE
+   |
+   | :small:`2ª EDIZIONE.`
+   |
+   |
+   |
+   | REMO SANDRON — Editore
+   |
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI`
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+			*I diritti di riproduzione e di traduzione sono riservati
+			per tutti i paesi, non escluso il Regno di Svezia e quello
+			di Norvegia.*
+
+			È assolutamente proibito di rappresentare questi lavori
+			senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+			17 Settembre 1882)*.
+
+			Published in Palermo, 10th. June Privilege of Copyright in the United
+			States reserved under the Act approved March 3rd. 1905, by Roberto Bracco
+			and Remo Sandron.
+
+			Off. Tip. Sandron — 126 — I — 290312.
+
+----
+
+.. clearpage::
+
+.. class:: center
+
+| :x-large:`UNA DONNA.`
+|
+| :largeit:`Dramma in quattro atti.`
+
+Questo dramma, scritto il 1888, fu rappresentato
+per la prima volta il 2 maggio 1892 dalla compagnia
+:small-caps:`Pasta-Garzes-Reinach`, protagonista :small-caps:`Tina di
+Lorenzo`, al *Fiorentini* di *Napoli*.
+
+[pg!152]
+
+.. clearpage::
+
+[pg!153]
+
+.. class:: center large
+
+PERSONAGGI:
+
+   .. class:: large
+
+   | :small-caps:`Clelia`.
+   | :small-caps:`Signora Maria Renzi.`
+   | :small-caps:`Mario Renzi`, *suo figlio*.
+   | :small-caps:`Gerardo Carsanti.`
+   | :small-caps:`Signor Brambini.`
+   | :small-caps:`Beatrice`, *sua nipote*.
+   | :small-caps:`Bartolomeo.`
+   | :small-caps:`Angiolina.`
+   | :small-caps:`Fonseca.`
+   | :small-caps:`Giannetti.`
+   | :small-caps:`Verani.`
+   | :small-caps:`Maturi.`
+   | :small-caps:`Saverio`, *portinaio*.
+   | :small-caps:`Un Albergatore.`
+   | :small-caps:`Teresa`, *cameriera*.
+   | :small-caps:`Giacomo`, *servo*.
+   | :small-caps:`Carmela.`
+   |
+   | La scena, a Napoli: verso il 1880.
+
+.. clearpage::
+
+[pg!154]
+
+.. class:: center large
+
+| **Annotazioni per gl'interpreti.**
+
+    :small-caps:`Clelia`: ventidue anni, graziosa, fragile, variabilissima di
+    aspetto e di accento. — :small-caps:`Mario`: trent'anni, pittore: ha qualche
+    cosa d'inconsciamente affascinante. — :small-caps:`Signora Renzi`: sessant'anni,
+    aspetto sereno, dolce, modestamente signorile. — :small-caps:`Gerardo Carsanti`:
+    quarantacinque anni: faccia poco simpatica, occhi lievemente
+    affetti da strabismo, modi o troppo melliflui o troppo ruvidi:
+    veste con esagerata e falsa eleganza. — :small-caps:`Signor Brambini`:
+    sessantacinque anni, ex capitano borbonico: aspetto bonario. — :small-caps:`Beatrice`:
+    diciotto anni: è una fanciulla bellina, semplice e mite. — :small-caps:`Bartolomeo`:
+    circa cinquant'anni, ex maestro di ballo: tipo comico:
+    porta delle scarpine senza tacco e in testa un berretto ben
+    ricamato. — :small-caps:`Angiolina`: quarantasette anni, rivenditrice di abiti:
+    aria di persona zelante, affaccendata, inframmettente, pettegola. — :small-caps:`Fonseca`:
+    trentott'anni: medico di poca importanza: vivacità
+    furbesca e cordiale. — :small-caps:`Giannetti`: quarant'anni: contegno d'uomo
+    di mondo. — :small-caps:`Verani`: trentadue anni: giovanotto vacuo e stupidamente
+    sentimentale. — :small-caps:`Maturi`: età indefinibile: galoppino di
+    Carsanti: magro, sparuto, sembra un usciere di tribunale. — :small-caps:`Saverio`:
+    portinaio d'un palazzetto abitato dal mezzo ceto: un omuncolo
+    bilenco. —
+    :small-caps:`Albergatore`: è rozzo, burbero. — :small-caps:`Teresa`: cameriera
+    giovane e astuta. — :small-caps:`Giacomo`: figura di servo sciatto, inelegante. — :small-caps:`Carmela`:
+    giovane popolana.
+
+[pg!155]
+
+
+
+
+ATTO PRIMO.
+===========
+
+
+*Camera modesta, quasi povera, in disordine.
+Poche suppellettili tra cui un attaccapanni, una
+tavola, uno stipetto basso, seggiole stranamente diverse.
+Sull'attaccapanni, soltanto una sottana bianca.
+Sulla tavola, un tovagliolo mezzo aggrovigliato
+e alcune bucce di frutta. Sopra una seggiola, un
+paio di stivalettini attillati. Sullo stipetto, piatti,
+bicchieri, forchette, cucchiai, coltelli, qualche bottiglia,
+qualche vaso di creta. In fondo, una porta
+senza battenti che lascia vedere una saletta e l'uscio
+di scala. Accanto a questa porta, una seggiola. A
+destra, un'altra porta. A sinistra, una finestra.*
+
+
+SCENA I.
+--------
+
+ANGIOLINA *e* PORTINAIO.
+````````````````````````
+
+*(Quando s'alza la tela, il campanello penzolante
+ad un muro della saletta si agita e strepita. Nella
+stanza non c'è nessuno. — Silenzio. — Poi, un'altra
+volta, il campanello strepita. — E di nuovo silenzio. — Quindi
+si sente la voce pettegola di Angiolina
+di là dall'uscio chiuso.)*
+
+[pg!156]
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ohè! Portinaio!... Portinaio, qui non mi si apre....
+Non c'è nessuno in casa? *(Pausa.)* E mi avete fatto
+salire!... *(Pausa.)* Allora venite ad aprirmi.... Sono
+io, Angiolina la rivenditrice.... Venite ad aprirmi....
+Aspetterò che venga la signorina.... *(Pausa. — Tra
+sè:)* Ah! benedetto Dio!....
+
+*(Si apre l'uscio. Entrano il portinaio con un
+chiavino in mano e Angiolina che porta sul braccio
+una veste avvolta in un panno bianco.)*
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+*(entrando)* Eh! bella mia, io ho l'ordine di non
+dare la chiave che al signor Mario. Ho aperto perchè
+siete voi. Se volete aspettare qui, accomodatevi
+pure; ma, senza offesa, io vi tengo compagnia.
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Angiolina può entrare sempre, per regola vostra:
+e poi, statevi attento che c'è tanta roba preziosa
+da portar via!... *(Ironicamente)* In questa casa si
+guazza nell'oro!... È una pietà, è una pietà!...
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+*(confidenzialmente)* Ma che ci volete fare! Questa
+poveretta è pazza. Se sapeste che offerte ha
+rifiutate! Il male è che ci vado io di mezzo.... E
+se qualche galantuomo viene a mettermi nelle mani
+una carta di cinque lire, solamente, già, per informarsi — perchè,
+tanto, ambasciate a lei non glie
+[pg!157]
+ne porto più —, io non ci sto bene di coscienza,
+e sono perfino capace di non accettare la mancia.
+È un peccato mortale!
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Lo dite a me? Lo so io se è un peccato mortale:
+io, che ero abituata ad avere da lei tutto quello
+che volevo... mentre adesso poco ci manca che non
+debba io soccorrere lei! Ah! quando penso ai tempi
+in cui la sua casa era in festa di giorno e di notte
+e si gettava la roba dalla finestra tant'era l'abbondanza;
+quando penso alle risate che mi faceva fare — perchè
+mi voleva un gran bene e mi raccontava
+tutti i fatti suoi —, credetemi, don Saverio, mi viene
+da piangere. Aveva sempre trattato gli uomini come
+fantocci, e ne aveva avuto tesori, e se n'era sempre
+infischiata... — senza mai commettere mal'azioni,
+veh!, perchè cattiva non era... —; ed ecco che
+da un giorno all'altro s'incapriccia di questo spiantato,
+e addio allegria, addio abbondanza! Manda
+al diavolo tutti gli amici, e si riduce in questo
+stato....
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+Apritele gli occhi voi.
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Non c'è come persuaderla. Se le parlo, non mi
+dà neanche retta.... Ed io, che potrei!... Basta!...
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+«Potreste»?... Lasciatemi sentire: che cosa potreste?
+A me dovete dire tutto. Confidatevi.... Tengo
+[pg!158]
+segreti qua dentro *(la mano sul petto)*, che
+neppure un confessore!
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(non volendo compromettersi)* No.... niente di
+positivo....
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+Volete farmi dei misteri; ma questo non va bene.
+Perchè, se poi avete bisogno di me....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ma che vi pare? Avessi da confidarvi qualche
+cosa, non ve la confiderei? Lo so che siete un
+buon uomo, e che, all'occorrenza, per un amico,
+vi gettereste nel fuoco; ma, vi ripeto, per ora non
+c'è niente, non c'è niente....
+
+
+SCENA II.
+---------
+
+MARIO, ANGIOLINA, PORTINAIO.
+````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(dalle scale)* Che è questa porta aperta? *(Entra.
+Vedendo Angiolina, mostra di seccarsene.)* Ah!
+qui si fa conversazione....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Serva vostra!
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+*(togliendosi il berretto)* Tenevo compagnia a
+[pg!159]
+donn'Angiolina per non farla aspettare fuori la porta.
+Questa è la chiave. *(Gliela dà.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(prende la chiave. Infastidito e stanco, siede dopo
+di aver lasciato in un angolo il cappello e un
+quadretto che aveva portato sotto il braccio.)* E la
+signora?
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+È uscita che saranno più di due ore. Poco potrà
+tardare. Comandate niente?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+No.
+
+.. class:: center
+
+   | :small-caps:`Portinaio`
+   |
+   | *(esce.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(ad Angiolina, che gli è rimasta indietro, si rivolge
+tranquillamente)* Che siete venuta a fare?
+Ve l'ho già detto: desidero che qui non ci veniate.
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(paziente)* La signorina Clelia mi aveva dato a
+vendere una veste, *(mostra la veste)* ed io vengo
+a dirle che non è stato possibile: non glie la vogliono
+comprare neppure per dieci lire.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(mal celando il turbamento)* Quale veste?
+
+[pg!160]
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(cavandola dal panno)* Eccola....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Come! Anche questa?!
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Sissignore, anche questa.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+E non l'hanno voluta?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+È di lanetta leggera. Fosse roba d'inverno, si
+troverebbe a vendere facilmente. Ma è robetta di
+mezza stagione, e siamo in novembre....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(interrompendola)* Sta benissimo. Dirò io tutto
+ciò alla signora. Lasciate lì la veste e non vi date
+pena. Non è necessario vendere questi stracci....
+Grazie tante, e addio. *(La saluta con la mano,
+congedandola.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ma io non ho fretta. Posso aspettare.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Addio! Addio! Volete farmi il piacere d'andarvene?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ah!... ecco la signorina Clelia.
+
+[pg!161]
+
+
+SCENA III.
+----------
+
+CLELIA, ANGIOLINA, MARIO.
+`````````````````````````
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(arriva tutta scalmanata, con in mano un mazzo
+di fiori sciolti e alcuni cartocci. Giungendo, va
+difilata a dare un bacio a Mario.)* Il portinaio m'ha
+detto che eri qui, e non so perchè mi son messa
+a correre per le scale, come se non t'avessi visto
+da una settimana.... Ah!... non ne posso più.
+*(Pone sopra la tavola i cartocci, mette i fiori in
+un vaso, e si lascia cadere, trafelata, su una seggiola.)*
+Male! Male, Mario mio! Le cose vanno
+male! Ma non te ne affliggere....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Si direbbe che vanno bene: hai fatto perfino
+una provvista di fiori.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Me li ha regalati....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Chi?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Un bel giovanotto. Ah! ah! ah! Saresti capace
+di crederlo?... Me li ha regalati la solita vecchietta....
+Ella sa che io non ci posso stare a lungo
+[pg!162]
+senza fiori, come io so che ogni tanto una buona
+colazione la rende felice!... *(Rivolgendosi ad
+Angiolina con dissimulazione)* E tu, Angiolina, come
+sei capitata qui? Che vento ti ha portata da
+questa parte?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+È inutile di fingere, cara Clelia: lo so che avevi
+mandato a vendere anche questa vesticciola di
+lana.... Ti ridurrai come una pezzente da non poter
+più uscire di casa.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con un sorriso di bontà)* Eh! Chi sa! Non tutti
+i giorni sono uguali! Bisogna sempre sperare! Ma
+a te, Angiolina, com'è saltato in mente di dire a
+Mario la faccenda della veste?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Egli mi rimproverava ch'io fossi venuta, e per giustificarmi....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Intanto, la veste è qui.... Perchè?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Perchè, signorina mia bella, se vi contentate di
+poche lire, io farò un'altra giratina e cercherò di
+venderla; altrimenti è proprio impossibile.
+
+[pg!163]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Poche lire! Come sarebbe a dire? Una cinquantina?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Scherzate! Meno di dieci. Per dieci me l'hanno
+rifiutata.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Caspita! Mi arricchirò. Beh! Vendila come meglio
+puoi. Siano pure otto lire. Saranno sempre
+guadagnate.
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(riavvolgendo la veste nel panno bianco e rimettendosela
+sul braccio)* Volevo poi dirvi, se il signorino
+permette, un'altra cosa... *(timida e prudente)*
+riguardante.... quell'altro abito....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(schietta)* Quale altro abito?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(vorrebbe spiegarsi con gli sguardi)* Ma come?!
+Non vi ricordate?... *(Le si avvicina e le dice all'orecchio:)*
+Vi debbo parlare di premura....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Alzate la voce, donn'Angiolina! Alzate la voce!
+Qui non c'è bisogno di far tanti misteri, e, soprattutto,...
+non c'è bisogno dei vostri servigi. Voi
+[pg!164]
+volete mettermi con le spalle al muro, volete. Non
+mi fate perdere la pazienza.... Ve l'ho fatto capire,
+sì o no, che mi siete antipatica?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(rimproverando con mitezza)* Mario!...
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ih! che maniere!... Vi ho messo forse la mano
+nella tasca?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+No, non me l'avete messa.... *(La prende per un
+braccio conducendola verso la porta)* Non me l'avete
+messa; ma, per ora, andatevene.
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(opponendo una lieve resistenza e guardando
+Clelia come se aspettasse un cenno di risposta)*
+Un momento....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Andatevene.... *(La tiene sempre pel braccio.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ma....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con un gesto la prega di pazientare.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Andatevene. *(L'accompagna sino alla porta, e
+glie la chiude in faccia.)*
+
+[pg!165]
+
+
+SCENA IV.
+---------
+
+CLELIA *e* MARIO.
+`````````````````
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(umilmente)* Perchè la tratti così? Che t'ha fatto
+di male quella poverina?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Non m'ha fatto nulla di male, ma il vederla bazzicare
+ancora in questa casa mi urta i nervi. La
+sua presenza mi ricorda troppo la tua vita passata
+e mi pare che lei possa rimetterti in relazione con
+tutta quella gente che t'ha rovinata.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(un po' celiando)* Veramente, non è quella gente
+che ha rovinata me; sono io, invece, che, talvolta,
+ho rovinata quella gente.... Intanto, tu credi che
+io possa lasciarmi adescare da donn'Angiolina?
+*(malcontenta)* È strano....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(alquanto irritato)* Strano o no, quella femminaccia
+mi fa paura, ed io ti proibisco di....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(interrompendolo con dolcezza)* Non la riceverò
+più, sta tranquillo. O che vogliamo litigare per
+donn'Angiolina?... *(Mutando tono)* Permettimi,
+[pg!166]
+piuttosto, di farti il resoconto della mia giornata.
+È cominciata benino, sai; ma poi..., ahimè!, ho
+sprecato fiato e tempo.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sentiamo com'è cominciata.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(cava di tasca una scatolina di sigarette e gliene
+offre una)* Provvisoriamente, fuma una sigaretta.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(pigliandola, la guarda)* Perdio! Delle Tocos!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con solennità burlesca)* Bagnate dall'onorato
+sudore della mia fronte: le ho comprate.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(turbato, le rende la sigaretta)* Grazie, io non ne
+voglio. Io non fumo sigarette di lusso....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(un po' mortificata e anche meravigliata)* Credevo
+che per una volta.... Gli è che stamane — ed
+ecco quel che ti dicevo — ho cominciato col far
+quattrini. Sicuro! Sono andata dalle Suore, le
+quali, come di solito, mi hanno accolta festosamente,
+e subito m'hanno data la buona notizia
+che il cuscino era stato venduto alla baronessa....
+Non mi ricordo a quale baronessa, ma insomma
+era stato venduto.
+
+[pg!167]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Il cuscino! Quale cuscino?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Come! Non l'avevi veduto? Non lo avevi ammirato?
+Già, hai ragione, io l'ho fatto di nascosto
+perchè non ero certa di riuscire. Ma sono riuscita!...
+Era di raso azzurro, sai, chiaro chiaro: una
+tinta deliziosa; e sull'azzurro spiccavano i rami
+verde cupo e i fiori di velluto d'un rosa pallidissimo.
+Modestia a parte, un gusto sopraffino. Pareva un
+quadro.... un quadro tuo! Che bellezza! Che bellezza!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Molte spese, però.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Oh! non molte.... *(Facendo il conto)* Un trentacinque
+lire: non più.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+E le Suore te l'hanno venduto per....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(imbarazzata come una bambina)*... Per qualche
+cosa di meno. Ma guarda: per la prima volta bisogna
+transigere. Tutto sta a mettersi in carreggiata...
+Vedrai, vedrai che quattrini!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sì, sì, vedrò. E che altro hai fatto?
+
+[pg!168]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ero tutta contenta d'aver lucrato... — via lasciamene
+l'illusione — d'aver lucrato una bella sommetta,
+e mi sono messa in giro, perchè ho pensato:
+«profittiamo del buon quarto d'ora.» Avevo
+stabilito di non ritornare a casa se non avessi conchiuso
+sul serio qualche affaruccio. Ma,... il quarto
+d'ora era già passato! Sta' a sentire. Sapevo che
+alla *Ville de Londres* era disponibile il posto di
+direttrice.... Dirigere una sartoria!... L'idea mi
+sorrideva. Vi sono andata. Ma il signor Angeloni,
+il proprietario, mi ha subito riconosciuta e mi ha
+detto: se volete ordinare degli abiti sono a vostra
+disposizione, ma che io mi permetta di dare a voi
+cento lire al mese è addirittura inverosimile. Poi sono
+andata da *Madame* Richard. Nella sua casa, veramente,
+non sapevo che fosse disponibile nessun posto....
+Pure ci sono andata con non so quale speranza
+nel cuore. *Madame* Richard, da quella donna d'esperienza
+che è, s'è meravigliata meno del signor Angeloni....
+Senonchè, m'ha detto che avrebbe potuto
+offrirmi l'ufficio di *essayeuse*.... Cinquanta lire al
+mese per mettermi addosso la roba altrui e star lì
+come un attaccapanni a girarmi e a rigirarmi
+avanti alle contesse e alle principesse armate di
+*lorgnettes* e di malignità!... Capirai:... non ne
+varrebbe la pena e sarebbe superiore alle mie forze....
+Finalmente, mi sono recata all'Agenzia dei
+Fratelli Morandi. Uh! per far loro intendere che
+io chiedevo e non offrivo un'occupazione di governante,
+c'è voluto un bel po'. Hanno preso nota
+del mio nome e della mia abitazione, e quando ho
+voltato le spalle... m'è parso di sentire che sghignazzassero,
+burlandosi di me.... *(Con malinconia)*
+[pg!169]
+Forse anch'essi m'avevano riconosciuta. *(Pausa)*
+Ero stanca,... Ho fatto delle spesucce e sono montata
+in un tram. Uno sfaccendato m'importunava;
+sono discesa: lo sfaccendato è disceso anche lui e
+m'ha seguita: ed io, per liberarmene, ho presa la
+prima carrozzella che mi è capitata dinanzi...: una
+carrozzella sciancata ch'era un piacere a starci
+dentro...; e sono arrivata qui, tutta scombussolata,
+con le ossa rotte, senza aver conchiuso niente!
+Mah! *(Sospira.)* Lasciamo fare alla provvidenza....
+*(Sorride tristamente.)* E se quella lì non ne vuol
+sapere, rimedieremo altrimenti.... Perchè, tanto, è
+meglio morire che vivere assai male!...
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(con rammarico affettuoso)* Questo è poco confortante
+per me che sono la ragione vera dei tuoi
+sagrifizii...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(scotendosi e fingendosi rianimata ed allegra)* Su!
+su! Non farmi quella faccia da sepolcro! Se ho
+avuto un momento di tristezza, perdonami. E non
+parlarmi più di sacrifizii. Del resto, ne hai fatti
+e ne fai tanti tu per me.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Io! Io!... Che faccio io per te? Che cosa posso
+fare? Che cosa so fare? *(Quasi parlando tra sè)*
+Sì, dipingo! Oh! il gran pittore che sono! A
+stento riesco a guadagnare quanto basta per non
+lasciar morire d'inedia quella povera mamma mia,
+acciaccata e sola com'è....
+
+[pg!170]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Hai soccorso pure me, tante volte! Sei stato così
+delicatamente generoso....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(con ironia contro sè medesimo)* Ma sì! Generosissimo!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E quando sarai tranquillo di spirito, guadagnerai
+anche di più. Farai dei bei quadretti.... Anzi
+dei quadrettoni, e io sarò la tua modella.... Ho
+già un nomignolo di modella! *Cosuccia*.... Ero
+predestinata.... Ma bada che allora vorrò essere
+pagata.... *(Scherzando amorosamente)* E tu mi pagherai!
+Oh! se mi pagherai!...
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Non t'illudere, Clelia mia. Credimi, sarò sempre
+un imbrattatore di tele: qui dentro *(toccandosi la
+fronte)* non c'è niente!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(energicamente)* E quest'è la tua sventura! Chi
+non comincia col credersi per lo meno un genio,
+non sarà mai apprezzato da nessuno. *(Indi, eccitandosi
+in una falsa allegria)* Ma che importa?...
+Sei un genio per me, e basta! Non ti apprezzano
+gli altri? Peggio per loro! Non ti festeggiano? Ti
+festeggio io! Adesso, per esempio, ti offro un banchetto.
+E che banchetto! Ho qui *(disfacendo i cartocci)*
+della *galantina* eccellente... un po' di tartufi
+[pg!171]
+in *boîte*,... e perfino dei *sospiri* di Van Bol....
+Non mi sgridare: era tanto tempo che non mangiavo
+dolci! Ne ho presi per me, per te e anche...
+per la tua mamma. T'offro, come vedi, un banchetto
+luculliano. Vino, poco; ma buono... cioè,
+così così: una mezza bottiglia di Capri bianco.
+Ti piace?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(sempre più rattristandosi)* Ho già fatto colazione
+a casa. Grazie. Mangia tu, cara Clelia, che devi
+avere appetito.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Appetito?... Fame! Fame! Altrochè appetito!
+*(Va aggiustando graziosamente la piccola mensa.)*
+Dunque, non vuoi accettare? Auff! fai lo schizzinoso....
+Vedi... mi mortifichi.... *(Mette in mezzo
+alla tavola dei fiori.)* Benissimo! *(A un tratto)*
+Ah!... ho dimenticato la cosa più importante: il
+pane. Ma non è nulla. Ora ordino a uno dei miei
+servitori che me ne comperi. *(Va alla finestra.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Che fai?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Chiamo uno dei miei dodici servitori: il portinaio.
+*(Chiamando)* Don Saverio! Don Saverio!
+*(Pausa.)* Fatemi il piacere di comperarmi quattro
+soldi di pane. *(A Mario)* Ho fame, io! *(Al portinaio)*
+Ma, badate: voglio di quei panini neri.... Andate
+giù, alla Panetteria Francese.... *(Pausa. Poi, rispondendo
+al portinaio)* Sì, sì, laggiù.... *(Pausa.)* Ah!
+[pg!172]
+ho capito: non avete i soldi. Ebbene, venite qua,
+salite, chè ve li darò io. *(A Mario, celiando)* Quest'uomo
+non ha mai il becco d'un quattrino!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Un genio incompreso anche lui!...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(gira intorno, impaziente, andando in cerca di
+qualche cosa)* Diamine... diamine....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Che cerchi?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Nulla *(Si fruga nelle tasche.)* Non trovo il portamonete,
+ecco. *(Continua a frugare.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sicchè?...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(desolata)* Ehi... me l'avranno rubato nel tram....
+Ma no! Se ho pagato il cocchiere della carrozzella....
+Ah! comprendo: siccome ho pagato prima di scendere,
+così certamente l'ho lasciato nella carrozzella....
+Che testa, mio Dio, che testa! *(Si scorge
+in lei uno sconforto tetro.)*
+
+.. class:: center
+
+   | :small-caps:`Portinaio`
+   |
+   | *(picchia alla porta.)*
+
+.. class:: center
+
+   | :small-caps:`Mario`
+   |
+   | *(scrollando il capo, apre.)*
+
+[pg!173]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Mario... ce li dài tu i quattro soldi?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(dopo aver messo le mani nelle saccocce, dice con
+tormentoso rincrescimento:)* Non ce li ho.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(costringendosi alla disinvoltura e alla gaiezza)*
+Beh!... poco male! Banchetteremo senza pane. *(Al
+portinaio)* Grazie, don Saverio: non ho più bisogno
+di voi. *(Ma il portinaio indugia.)* Che è? Avete
+da dirmi qualche cosa?
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+*(le si avvicina e le parla all'orecchio)*
+È venuto,
+poco fa, il padrone di casa.... Si lamentava che
+pareva avesse mal di stomaco.... Ha detto che un
+altro giorno aspetterà, e poi... mi spiego? Voleva
+salire, voleva: ma io gli ho detto che non c'era
+nessuno.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sottovoce)* E ritornerà?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(sente confabulare senza intendere le parole e
+monta in collera)* Sempre misteri! Sempre confabulazioni
+segrete!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(dolcemente)* Nessun mistero....
+
+[pg!174]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Voglio sapere!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Oh! io non volevo dirtene nulla per non seccarti,
+ma giacchè Dio sa che scioccherie sospetti — e
+sei molto ingiusto —, eccoti la verità: il padrone
+di casa vuol mandarmi via. Sei contento, ora?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(mortificato e calmo)* Non ti manderà via. Fra un
+paio di giorni, se non prima, avrà quello che deve
+avere.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Avete udito, don Saverio? Sicchè, ditegli che
+stia tranquillo.... E, per carità, se ritorna, non me
+lo fate vedere! Uh! quanto è antipatico!
+
+.. class:: center
+
+| :small-caps:`Portinaio`
+
+*(stringendosi nelle spalle, se ne va borbottando.)*....
+Antipatico... antipatico.... Se quello viene, posso io
+dirgli d'andarsene?... Basta.... *(Esce, chiudendo la
+porta.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con uno dei soliti sforzi di finta spensieratezza)*
+Sì, sì, basta con i guai, oggi!... «Signora Clelia il
+pranzo è servito».... *(Siede a tavola. Cava il turacciolo
+dalla bottiglia, e versa il vino nel bicchiere,
+mentre Mario è lontano. Indi, a un tratto, cede
+a un istante d'abbattimento, appoggia i gomiti
+sulla tavola, e fra le mani stringe il capo abbandonato.)*
+
+[pg!175]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(se ne accorge e le si avvicina alle spalle)* Clelia mia, lo vedi: questa vita non è per te!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(senza alzare il capo, con dolcezza)* Non mi dir
+niente, Mario.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+No, non ti rimprovero.... Tutt'altro! *(Le bacia i
+capelli.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(gli si volta con le lagrime agli occhi)* Mario mio....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Tu mi lascerai.... Tu devi lasciarmi: lo comprendo.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+No....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Devi lasciarmi.
+
+[pg!176]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma io ti voglio bene! Mario, credimi. Te lo dico...
+semplicemente: io non potrei più vivere
+senza di te.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Ti sembra così... perchè ora non vedi che me,
+perchè ora eviti qualunque tentazione, perchè vivi
+isolata: tutta la tua vita è concentrata nella mia
+persona, e tu dimentichi perfino che ci sono al
+mondo tanti altri uomini, sì, tanti altri uomini
+migliori di me, meno noiosi, più attraenti, più intelligenti...
+*(Concitandosi)* Ma se questi uomini ti
+stessero un po' attorno, tu, pure essendo buona
+come sei, pure amandomi come mi ami, cominceresti
+a fare dei confronti e cominceresti a comprendere
+di nuovo che il bacio che ti do io non vale
+più di quello d'un altro. Grado grado, ti persuaderesti
+di essere vittima di una fissazione, d'un equivoco...
+e — anche prima di lasciarmi — mi tradiresti....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(di scatto)* Mai!... Questi altri uomini, che dici
+tu, io li ho conosciuti, io me li ricordo: li incontro
+ancora, talvolta, per la strada.... E li faccio
+sempre i confronti, e non mi riesce di trovarne
+uno che mi paia migliore del mio Mario. E poi,
+me li figuro vicino a me, desiderosi di me... *(con
+evidenza)* e, al solo pensiero di averne un bacio, io
+provo disgusto, io sento ribrezzo.... Come potrei
+dunque tradirti?... Non è già che io pretenda d'essere
+una donna virtuosa.... Non ho nemmeno un'idea
+[pg!177]
+chiara di ciò che sia la virtù.... Ma non saprei,
+non saprei più subire nessun fastidio del cuore e
+del senso. E dimmelo tu: — questo disgusto, questo
+ribrezzo, quest'impossibilità, completa, assoluta,
+di tollerare, da che ho conosciuto te, sinanche un
+bacio, un semplice bacio, d'un altro uomo, che
+cosa significa? È la virtù?... o è il vizio?... È un
+bene?... o è un male?... Io non lo capisco. Ma
+capisco — ed è certo — che solamente tu mi sei
+piaciuto e solamente tu mi piaci, e che tua, tutta
+tua, esclusivamente tua posso e voglio essere.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(commosso)* Clelia! Clelia!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con amorevole abbandono)* Mi hai trasformata....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Clelia mia, ti ringrazio.... *(La bacia.)*
+
+*(Tutti e due si calmano. Mario si stacca da lei
+rincorato, svelto, arzillo e va a prendere il cappello
+e il quadretto.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(scontenta)* Che fai! Mi lasci proprio adesso?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sì, ti lascio proprio adesso, perchè adesso mi
+sento benone, pieno di coraggio.... Ho una buona
+speranza.... Mi pare che tutto ciò che tenti adesso
+[pg!178]
+mi debba riuscire.... Ho qui un piccolo capolavoro....
+*(Mostra il quadretto avvolto in una carta.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Lasciami vedere....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+È una testina: pare il ritratto d'una scimmia.
+Ma ho appuntamento con la cima degli imbroglioni:
+un mezzano d'arte apocrifa. E, perbacco, oggi
+stesso quello lì mi farà trovare... il compratore
+americano!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Lasciami vedere..
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(allegro)* Ti farò vedere... il biglietto rosso. Ahi
+ah! ah! Arrivederci, *(l'abbraccia e bacia)* arrivederci,
+cuor mio, *Cosuccia* mia, tutta mia, solamente
+mia....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(ansiosa e triste)* Non te ne andare ancora....
+Aspetta.... Mi sembra così brutto che tu te ne vada
+ora che la tristezza è passata....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Va là, che voglio profittare di questo lampo...
+di genio! Vado e torno presto. *(Via di corsa chiudendo
+l'uscio.)*
+
+[pg!179]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sùbito lo riapre, chiamando Mario come se avesse
+bisogno urgente di trattenerlo)* Mario!.. Mario!..
+*(Tra sè)* Ih! come corre!.. *(Senza chiudere l'uscio,
+si accascia sulla sedia presso la porta.)*
+
+
+SCENA V.
+--------
+
+CLELIA, ANGIOLINA, *indi* CARSANTI.
+```````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si sente male; le manca il respiro; è abbattuta.)*
+Ahi!... Ahi!... *(S'alza, va fino alla tavola apparecchiata,
+e beve avidamente il vino già versato
+nel bicchiere. Quindi, respira come si sentisse meglio. — Resta
+assorta, in piedi, con le spalle voltate
+alla porta.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(entra, non vista, circospetta)* Io sono qui.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(voltandosi)* Hai venduto l'abito?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ma che abito!! *(Sempre guardinga)* Ero abbasso
+a far la spia. Appena il signor Mario è uscito,
+io ho infilato il portone. Non sono sola. C'è per le
+scale il signor Carsanti.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(scattando con violenza)* E chi t'ha dato il permesso
+di condurmi questo seccatore?
+
+[pg!180]
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Nessuno! E se dovevo aspettare che me lo deste
+voi il permesso, sarei stata fresca! *(Umilissima)*
+Ma quel poveretto mi ha tanto pregata, che io ne
+ho avuto pietà. E poi non è un appestato, che diamine!
+Almeno state a sentirlo per cinque minuti.
+Non vi costa niente. E diteglielo voi stessa in faccia
+un bel no come glie lo avete mandato a dire
+tante volte per mezzo mio.... E allora se ne persuaderà
+e lascerà in pace voi e me. *(Esplodendo)*
+Oh! io sono stanca di andare e venire ogni giorno
+inutilmente! *(Mutando tono)* Lo posso fare entrare?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Bada che lo tratto male!
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Trattatelo come volete: io me ne lavo le mani.
+*(Corre verso la porta.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+No, Angiolina: ti proibisco....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Meglio levarselo d'attorno una volta per sempre.
+*(Sull'uscio, a voce bassa)* Ehi, ehi, signor Carsanti....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+«Ti proibisco» dico!...
+
+[pg!181]
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(senza darle retta)* Signor Carsanti, favorite... favorite....
+La signorina ha acconsentito a ricevervi....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(non ha l'energia di ribellarsi, ed esclama quasi
+tra sè:)* Bugiarda!
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(facendo strada a Carsanti)* Avanti... Avanti....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si concentra nella rabbia e nella debolezza.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(chiude l'uscio non appena Carsanti è entrato.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(timidamente)* Grazie d'avermi finalmente concesso....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(severa)* Non c'è da ringraziarmi, perchè non ho
+concesso nulla. Ho tollerato che voi entraste soltanto
+per dirvi... per pregarvi di non importunarmi
+più.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(paziente e galante)* È dunque un odio?
+
+.. class:: center
+
+   | :small-caps:`Angiolina`
+   |
+   | *(resta indietro vigilando.)*
+
+[pg!182]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ma che cosa ho fatto io per essere da voi odiato?...
+In altri tempi, una persona come me non
+sarebbe stata odiata da voi: anzi voi l'avreste accolta
+con cortesia, con molta cortesia....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(crudamente)* Che ne sapete voi?...
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Suppongo.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Non avete il dritto di fare delle supposizioni sul
+conto mio.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Perdonate.... Non ho la menoma intenzione di
+offendervi, nè d'irritarvi....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E allora perchè siete venuto mio malgrado?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Perchè... ho avuto in mente di fare una buona
+azione.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Quale?
+
+[pg!183]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(sempre timidamente)* ...Io so che le vostre condizioni
+finanziarie non sono floride; io so che siete
+stata obbligata a vendere i pochi abiti che vi restavano;
+io so che menate una vita di privazioni,
+di sagrifizii, di torture; io so che avete dei debiti....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Non è vero! In ogni caso, ciò non vi riguarda:
+io non vi conosco!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+E io desidero che mi conosciate. La buona azione
+che intendo di compiere basterà, spero, a rendermi
+meno ignoto. *(Pausa.)* Per una donna come
+voi, abituata al lusso e alla spensieratezza, per
+una donna così bella, così fine, così preziosa, la
+miseria... è un'offesa! E io voglio, a qualunque
+costo, comprendete, a qualunque costo, voglio salvarvi
+dalla miseria....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Non lo potete!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Sono ricco....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma non vi amo.
+
+[pg!184]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(con un sorriso maligno, sommessamente)* Non
+è stato poi sempre necessario che amaste per....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(interrompendolo e smettendo un po' l'aria burbera)*
+Ma ora, vedete, non sono più la stessa.... Signore,
+apprezzate la mia franchezza: non vi amo
+*(recisa)* e non potrei essere da voi posseduta mai!
+Ve lo chiedo in grazia: non insistete.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(insinuante)* Io insisto....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(non vista da Clelia, gli fa dei cenni come per
+ricordargli il consiglio datogli, di fingersi, cioè, un
+semplice benefattore.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(non intende bene, e a ogni parola guarda Angiolina
+per secondarla)* Voi non siete più la stessa?
+Lo credo.... Voi non mi amate, voi non potete
+essere mia?... Sta bene. E se io... offrendovi il mio
+appoggio... non vi chiedessi che... la vostra....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(approva e lo incoraggia, coi gesti, a continuare.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+... che la vostra amicizia?
+
+[pg!185]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si stringe nelle spalle sorridendo d'incredulità.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(accorgendosi che la conversazione piglia una
+piega amichevole, vorrebbe lasciarli liberi)* Io, intanto,
+me ne vado a sbrigare qualche faccenda....
+Torno più tardi.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(presa dal panico)* No, Angiolina. Resta qui! *(Le
+si avvicina repentinamente per trattenerla, le si
+aggrappa alla veste e le dice sottovoce:)* Ma se viene
+Mario, qui scoppia una tragedia.... *(Sussultando
+di spavento)* Ah! mi pare la sua voce! *(Va alla
+finestra e guarda giù, trepidante.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(ne profitta per accostarsi a Carsanti. Parlano
+tutti e due sommessamente.)* Battete sempre sull'amicizia;
+ve lo avevo detto: battete sempre sull'amicizia.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ma non mi crederà. Che diamine! Non mi crederà....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Glie lo faccio credere io.... Lasciate fare a me.
+Adesso glie ne do a bere una delle mie. Tutto sta
+a preparare la trappola; — e quando sarà in trappola
+dovrà cedere.
+
+*(Si staccano subito perchè Clelia si è voltata.)*
+
+[pg!186]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(rassicurata)* No, non è lui.... Che batticuore!....
+
+.. class:: center
+
+   | :small-caps:`Angiolina`
+   |
+   | *(le si avvicina.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(per discrezione, si allontana guardando i muri.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(a Clelia, sottovoce)* Spicciatevi! Ma come? Non
+avete ancora capito?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Che cosa?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(misteriosamente)* Che un uomo di questa specie
+si trova una sola volta in vita. Non vi accorgete
+che è uno di quelli che... con le donne... non hanno
+niente da concludere? *(Guarda Clelia negli occhi
+per scorgere l'effetto della sua menzogna.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(reprimendo la gioia)* Davvero?!
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ssss! zitta! *(Poi, alzando la voce)* Una volta che
+debbo restare, piglio aria alla finestra. *(Si mette
+alla finestra, canticchiando.)*
+
+[pg!187]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(a Clelia)* Dicevamo, dunque.... Se io non vi chiedessi
+che un poco d'amicizia?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(fissandolo)* Signor Carsanti, pensate che io sia
+una donna da potersi canzonare?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Non lo penso. Io vi parlo con tutta la lealtà d'un
+perfetto galantuomo. *(Continua con simulazione:)*
+È una stranezza ciò che vi propongo; ma io sapevo
+già che voi non m'amate e che non volete
+amarmi, e avevo risoluto di ottenere da voi, comunque,
+il permesso... di farvi del bene. *(Egli le
+si accosta troppo. Ella lo scansa.)* Amicizia?... *(Fingendo
+di contentarsene)* Vada per l'amicizia. Voi
+non dovete che accettare tutto quanto io vi offro....
+Io vi farò abitare come una gran dama; io metterò
+a vostra disposizione il mio avere;... io interpreterò
+i vostri bisogni, i vostri desiderii, i vostri
+capricci, e li soddisferò, e sarò sempre ai vostri
+piedi, umile, devoto, rassegnato....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(che lo ha ascoltato trasalendo all'idea della ricchezza,
+lo interrompe)* Rassegnato?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+A tutto!... *(Con trepidazione)* Fuorchè a essere
+ridicolo in faccia al mondo.
+
+[pg!188]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(fredda)* È dunque la vanità che vi rende così
+generoso?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(cinico)* E se ciò fosse, che ve ne importerebbe?...
+*(Cambiando tono)* Ma è anche l'amore. Per il mondo,
+desidero che siate ufficialmente la mia amante; — per
+me, per il mio cuore, desidero che *non
+siate* l'amante di un altro.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Siete più esigente che non crediate. *(Pausa.)* Non
+avete altre concessioni a fare?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(grave)* No, signora.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(tormentandosi nell'incertezza, con gli occhi bassi)*
+E siete sicuro di mantenere la vostra parola?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ne sono sicuro. *(Sogghigna senza lasciarsi scorgere.)*
+
+.. class:: center
+
+   | :small-caps:`Angiolina`
+   |
+   | *(canticchia più allegramente.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Acconsentite? *(Pausa. Poi, con voce affabilissima)*
+Non più debiti, non più sagrifizii, non più
+[pg!189]
+l'urgenza di costringere la delicata personcina forse
+anche alla volgarità del lavoro materiale..., e
+non più il pericolo di dovere obbedire, un giorno
+o l'altro, a una più dura necessità e di dovervi arrendere,
+non si sa mai, a qualcuno che sia meno
+buono, meno affettuoso, meno ricco e più esigente
+di me. Acconsentite?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(con un grido di spavento)* Madonna santa, il signor
+Mario!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(avendone una scossa violenta)* Mio Dio, che avverrà
+adesso?!...
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Il vostro amante!
+
+.. class:: center
+
+| :scene:`(Tutti sono in orgasmo.)`
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Sì, lui... Cioè no.... Ma adesso, che avverrà?..
+Ho paura... ho paura....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(spiando alla finestra, in preda all'emozione)* Non
+sale ancora le scale.... Se tornasse indietro!... Parla
+con un uomo grasso....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Il padrone di casa....
+
+[pg!190]
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Si abbaruffano un poco.... Se si picchiassero, sarebbe
+una fortuna!... Aspettate.... Il signor Mario
+cava di tasca del danaro, e glie lo dà.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(quasi fra sè, tremando)* Ha venduto il quadro....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Si stringono la mano.... Siamo perduti.... Il signor
+Mario sale!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Dio! Dio!... T'ha vista?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+No.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E allora... entrate tutti e due in questa stanza...
+*(Sulla soglia della porta a destra)* Signor Carsanti,
+scusate il disordine....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(afferrando Carsanti pel soprabito)* Venite con
+me, voi.... *(A Clelia — affaccendata ed emozionata)*
+Mandatelo via subito!... Già, *(all'orecchio)* una volta
+dovete dirglielo: il meglio è che glie lo diciate
+ora. Così non ci pensiamo più....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(confusa e perplessa)* Sì, hai ragione: Meglio ora....
+
+.. class:: center
+
+| :scene:`(Si ode una forte scampanellata.)`
+
+[pg!191]
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Misericordia!... *(A Carsanti, quasi trascinandolo)*
+Venite, venite con me.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(prima di entrare a destra — a Clelia)* Siamo
+d'accordo?
+
+*(Un'altra scampanellata. — Angiolina e Carsanti
+entrano a destra.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Eccomi! *(Va ad aprire l'uscio di fondo.)*
+
+
+SCENA VI.
+---------
+
+CLELIA *e* MARIO.
+`````````````````
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(avanzandosi tutto gaio)* Dormivi?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+No... Ero lì, sul letto... con un po' di mal di
+capo.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Ora te lo faccio passare io con un bel bacione
+*(glie lo dà)* e una buona notizia. Ho ceduto il ritratto...
+della scimmia... al mezzano imbroglione,
+che lo venderà, per conto suo, come quadro di Morelli
+o di non so chi; e questa cessione mi ha messo
+in grado di tappar la bocca al padrone di casa
+[pg!192]
+e di versare nella cassa del nostro amore l'ingente
+somma di cinquanta sette lire e cinquanta centesimi.
+Ecco qua. *(Mette il danaro sul tavolino.)* Siamo
+ricchi, perbacco! L'età dell'oro è cominciata!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(dissimulando lo spasimo dell'anima nell'asprezza
+eccessiva)* E per tua madre?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(imbarazzato)* Ci ho il resto.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Mentisci.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Clelia, perchè questo tono così acre? Se pure
+mentissi, non dovresti tu rimproverarmene....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Il tuo primo dovere è di soccorrere tua madre.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Hai ragione.
+
+.. class:: center
+
+| :scene:`(Pausa.)`
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Io non debbo tollerare che quella povera signora
+malaticcia mi sia sacrificata... Riprendi quel danaro.
+
+[pg!193]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(guardandola in faccia, riprende lentamente il
+danaro e lo intasca.)* Ma tu hai qualche cosa contro
+di me.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con voce buona e commossa)* Contro di te.... No,
+Mario mio. No! no! *(Frenando la commozione e
+quasi con accento severo)* Ma il fatto è che, per causa
+mia, tu trascuri la tua arte, trascuri la tua mamma....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Avanti... Continua... *(Fissandole negli occhi uno
+sguardo intenso)* Continua....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(rabbrividendo)* Mario, non guardarmi così....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Ma perchè non continui?...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+... Mi fai paura....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Paura?...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Non guardarmi così.... *(Impaurita, retrocede.)*
+
+[pg!194]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(scattando disperatamente)* Ah! perdio! Non c'è
+più dubbio, tu hai deciso di lasciarmi!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sempre più tremebonda, con voce soffocata)* Mario...
+Mario, non battermi, non farmi del male...,
+non sputarmi in faccia,... non dirmi niente.... Ti
+spiegherò tutto,... ti spiegherò tutto... Ora non so
+parlarti.... Ti scriverò.... Sii ragionevole.... Pietà
+di me.... Ti scriverò.... Sono una creatura debole....
+Non battermi, no, non battermi... *(Retrocede e si
+rincantuccia in atto di preghiera.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(fremendo, si è trattenuto a stento, ed ora le si
+accosta molto vicino, e, con voce soffocata, le dice
+in faccia:)* Sgualdrina!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Mario....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sgualdrina!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Non chiamarmi «sgualdrina»!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Lo hai trovato l'imbecille che ti paga bene....
+
+[pg!195]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Taci....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+E dimmi che non è vero.... Dimmelo! Dimmelo!...
+*(Quasi lasciandosi vincere dalla speranza e
+dalla tenerezza)* Clelia, te ne scongiuro, dimmi che
+mi sono ingannato, dimmi che son pazzo e che mi
+amerai sempre....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(guardando con la coda dell'occhio la porta a
+destra, spingendolo paurosamente lontano da questa
+e fiatando appena)* Ti amerò sempre, non amerò
+che te, sarò soltanto tua, sempre; ma vattene.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Mi scacci?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(supplichevole)* Vattene....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(al colmo dello sdegno)* Ah!... Orribile! Orribile!...
+E giacchè tu mi scacci, io non ho più nulla
+da sapere. *(Prende il cappello. — Ha un ultimo barlume
+di speranza)* Clelia?... Addio?... *(Aspetta invano;
+e, prima di uscire, le torna a dire con violento
+disprezzo:)* Sgualdrina! *(Esce.)*
+
+[pg!196]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(va fino alla porta di scala. Trafitta, avvilita,
+indietreggia un po' e, singhiozzando, cade sulla
+sedia.)*
+
+
+SCENA VII.
+----------
+
+CLELIA, ANGIOLINA, CARSANTI.
+````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(facendo capolino)* Finalmente! *(Poi, rivolgendosi
+indietro a Carsanti che è ancora dentro)*
+Signor Carsanti, che fate lì impalato?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(uscendo pallido, emozionato)*.... Sono qui.
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Con che faccia!...
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(indicando Clelia)* Piange....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Capirete....
+
+.. class:: center
+
+| :scene:`(Lunga pausa.)`
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(s'accosta a Clelia e le carezza i capelli)* Su, su,...
+signora Clelia, non piangete così.
+
+[pg!197]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con un piccolo grido felino)* Non mi toccate!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(sogghignando, s'allontana.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(facendogli cenno d'essere indulgente)* Meglio
+andar via, adesso.... *(Lo tira pel soprabito.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(presso la porta, chinandosi verso Clelia)* A domani,
+eh?
+
+.. class:: center
+
+| :scene:`(Spariscono Angiolina e Carsanti.)`
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+.. class:: center
+
+*(scoppia in un pianto più forte e dirotto.)*
+
+.. vspace:: 2
+
+.. class:: center
+
+| :scene:`(Sipario.)`
+
+[pg!198]
+
+[pg!199]
+
+
+
+
+ATTO SECONDO.
+=============
+
+
+Boudoir *grazioso, pieno di mazzi di fiori. Due
+porte laterali. Una gran porta a due battenti, in
+fondo. Una finestra chiusa. Un pianoforte, un sofà,
+una scrivanietta, mobili civettuoli, ninnoli dappertutto.
+Un tavolino con su un servizio da liquori,
+cui mancano due bicchierini. Presso il sofà, una
+seggiola, sulla quale sono posati appunto i due
+piccoli bicchieri, una grossa scatola di sigarette e
+un portafiammiferi d'argento*.
+
+
+SCENA I.
+--------
+
+CLELIA, MARIO, TERESA.
+``````````````````````
+
+*(Mario è sdraiato, svogliatamente, sopra il sofà.
+Ha in bocca una sigaretta spenta. Clelia, in abito
+elegante, gli sta accanto, seduta sopra uno sgabelletto
+tappezzato, col viso rivolto a lui.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Vuoi accendere?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sì.
+
+[pg!200]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(prende il portafiammiferi, accende un cerino e
+lo porge a Mario, che vorrebbe servirsene da sè,
+ma ella glielo impedisce. Egli vi accosta la sigaretta,
+indi fuma, mandando in aria grosse boccate.)*
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(comparendo sotto l'arco dell'uscio in fondo)*
+Avete chiamato, signora?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Sì. Porta via questi bicchierini e quei liquori.
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+Avete fatto bene a ricordarvene. *(Eseguendo l'ordine)*
+L'altra sera, il signore trovò i due bicchierini
+sulla sedia. Stette zitto con voi, ma poi, il
+giorno dopo, mi oppresse di domande che mi pareva
+un giudice... come si dice... un giudice... *distruttore*.
+Io dissi che era venuta a trovarvi Gigetta,
+e che voi non glie l'avevate detto perchè
+quella lì dà le stoccate....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Metti a posto anche questa scatola di sigarette
+e questo portafiammiferi....
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(pone l'una e l'altro sul tavolino, e s'avvia per
+andarsene con in mano il servizietto dei liquori.)*
+Volete altro?
+
+[pg!201]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Fammi il piacere, Teresina, apri un po' quella
+finestra. Qui dentro, si soffoca: l'odore di questi
+fiori dà alla testa.
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+Mi dispiace, ma non posso servirvi: il pianerottolo
+sta proprio dirimpetto: non si sa mai che
+gente passa per le scale. E poi, lo stesso signor
+Carsanti, salendo all'improvviso, potrebbe vedervi.
+Ci volete compromettere?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Basta, Teresa, vattene. E ti prego di star bene
+all'erta.... Stasera, verrà, forse, più presto delle
+altre sere.
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+Teresina non ha bisogno di raccomandazioni:
+pensate a voi: oggi è la vostra festa: divertitevi,
+divertitevi.... *(Esce dal fondo chiudendo con cura
+la porta.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(dopo una lunga pausa)* Mario! *(Pausa.)* Mario
+mio,... sei seccato, di', sei più seccato del solito?
+*(Pausa.)* Non mi dici nulla?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(infastidito)* Clelia, fammi il favore di lasciarmi
+tranquillo.
+
+[pg!202]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si alza sconfortata e gli parla dolcemente:)* Mi
+tratti male.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Ma no.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ogni giorno, ogni giorno peggio!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Ma no.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E non me ne fai capire neppure il perchè.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(volendo essere ancora prudente)* Insomma, Clelia,
+tu non t'accorgi a quali torture mi sottoponi.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(schiettamente meravigliata)* Io?!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Questo mistero continuo, questa complicità della
+serva, questo dovere che ho di nascondermi, di
+rimpicciolirmi, di fuggire, questa necessità terribile
+d'andar via paurosamente quando arriva il
+tuo signore, ti pare niente?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Dunque, tu sei pentito d'essere ritornato al mio
+amore?
+
+[pg!203]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Vi ritornai — e tu stessa ne sei convinta — pazzo
+di gioia. Sapesti così bene richiamarmi!... Dopo
+il gran dolore che avevo provato quando tu deliberasti
+di accettare... la protezione di costui, un
+sol dolore mi era parso più acerbo, più insopportabile:
+quello di vivere lontano da te. Ritornai....
+Non sapevo ancora che cosa significasse appartenere
+a quella miserevole categoria di uomini che,
+a poco a poco, si preparano a ogni vergognosa
+transazione sotto la veste del così detto «amante
+del cuore»!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Mario... ma tu non fai nessuna transazione vergognosa.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Non lo so.... Ma certo, quando io esco da questa
+casa tutta elegante e profumata, mi pare di aver
+rubato. Io sento i brividi che deve sentire il ladro
+non ancora esperto.... E l'idea del furto consumato
+è inevitabile, perchè è intimamente legata al ricordo
+profondo del godimento. Tu dici che non
+faccio nessuna transazione vergognosa.... E perchè
+no? Tu non potevi vivere poveramente: va bene:
+*(accalorandosi)* sentivi il bisogno imperioso della
+ricchezza, o, almeno, dell'agiatezza. Ora, l'hai
+questa agiatezza: ma sono forse io che te la do,
+io, io, tuo amante? No. Te la dà *un altro*. È *un
+altro* che ti mette in condizione d'esser *mia*, ed
+io sono obbligato a *lui*... dell'amore che tu mi
+concedi. Ah! cara Clelia, la transazione è già avvenuta!
+[pg!204]
+E poi... vuoi comprendere meglio? Dimmi:
+*(sempre più accalorandosi)* se domani io ti chiedessi
+del denaro, tu... me lo daresti?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con uno slancio di semplicità)* Sì!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(tutto acceso)* E ti sembrerebbe naturalissimo....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(come sopra)* Sicuro!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(prorompendo con esasperazione)* Lo vedi, lo
+vedi, ti sembrerebbe naturalissimo il farmi commettere
+una turpitudine: ecco che la tua sincerità
+mi valuta giustamente e dice, a me e a te, quel
+che sono diventato!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(annichilita, confusa)* Mario mio, se ti ho offeso,
+senza avvedermene, te ne chiedo scusa. Io sono
+una donnetta, e... molte cose... non le intendo.
+*(Pausa. Cambiando tono come per ragionare)* Ma
+senti, non ti eccitare più, non esasperarti. Questa
+unione circondata di mistero, di paure e di sotterfugi
+ti riesce fastidiosa?... Ebbene, se... *(timida)*
+se rinunziassi a questa agiatezza che mi costa
+tante pene e che mi condanna all'enorme fatica
+della finzione, se facessi uno sforzo di volontà per
+vivere in pace economicamente, se tornassi a essere
+tua anche al cospetto del mondo?
+
+[pg!205]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sarebbe troppo tardi.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sentendo una trafittura al cuore)* Ahi!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Se pure credessi al tuo sforzo di volontà, io non
+potrei essere per te lo stesso Mario di prima, perchè
+non potrei mai dimenticare che, dopo il bene
+che t'ho voluto così perfettamente, tu hai avuto il
+coraggio di... dividerti tra me e un altro! Clelia,
+pur troppo, i sensi perdonano meno del cuore.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(scoraggiata)* No, no, Mario, t'inganni, t'inganni.
+Io non ti nego che tu pensi quel che è più verosimile,
+ma te l'ho giurato tante volte che sinora — e,
+del resto, non sono trascorsi che una ventina
+di giorni — ho potuto mettere a profitto la timidità
+di quell'uomo e mi sono salvata!...
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Impossibile!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma non sei ancora convinto che io sarei fuggita
+da lui se non avessi stabilito — malvagiamente sì,
+lo confesso, malvagiamente — di sfruttarne l'amore
+cretino senza il sacrifizio della mia persona?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(sogghignando)* Il sacrifizio!
+
+[pg!206]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Hai ragione. Hai ragione perchè non ho mai saputo
+dirti bene... *quel che sono io*. Che vuoi! C'è
+dei segreti nel principio della vita di certe creature
+che anche un'intimità come la nostra non
+permette di rivelare con chiarezza. Un pudore invincibile
+si oppone. Mario, la prima offesa mi fu
+fatta.... *(con raccapriccio)* da chi meno poteva esserne
+sospettato, quando io ero ancora una povera
+innocentuccia.... La nefandezza inaudita mi annientò....
+Diventai impassibile come il marmo!...
+Nessuno, d'allora in poi, aveva saputo scuotermi,
+ridarmi il calore, la febbre, i nervi, la vita.... Tu,
+sì; e sei di me, adesso, padrone assoluto, unico,
+completo! Ho potuto disporre del mio corpo, come
+d'una cosa qualunque, finchè la mia impassibilità
+uguagliava e confondeva insieme tutti gli uomini;
+ma non ne posso più disporre ora, ora che nel
+tuo amore, e nel tuo amore soltanto, io risento di
+essere *una donna*. Ora... il ribrezzo per tutti gli
+altri uomini mi assale atrocemente *(con una reminiscenza
+di terrore)* come in quel giorno! Tu li
+hai soppressi, li hai soppressi tutti.... Io sono
+donna per te, per te: — per gli altri non sono più
+niente, neppure un oggetto vile da barattarsi....
+M'intendi, Mario, m'intendi finalmente? T'accorgi
+che nella mia voce c'è una franchezza onesta che
+non ammette dubbi, che non merita sdegno? T'accorgi
+che così parla l'anima? che così parla la verità?
+Ma ascoltami bene; *(scuotendolo affettuosissimamente)*
+ma guardami bene negli occhi.... e
+dimmi: mi credi? mi credi? mi credi?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(aridamente)* No.
+
+[pg!207]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Dio! Dio! Ma se tu guardassi dentro il mio segreto,
+comprenderesti come, pure essendo vissuta
+così orribilmente, io debba ribellarmi ora alla brutalità
+dell'uomo che non amo.
+
+
+SCENA II.
+---------
+
+MARIO, CLELIA, TERESA.
+``````````````````````
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(dietro la porta in fondo, tossisce forte, e batte
+all'uscio)* Ohè, ci siamo, ci siamo....
+
+.. class:: center
+
+   | :small-caps:`Mario`
+   |
+   | *(ne ha un evidente senso di fastidio e di disgusto.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(imbarazzata, s'affretta a ricomporsi, frenando
+la commozione da cui era invasa.)*
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(entrando e chiudendo presto la porta)* Subito,
+sbrighiamoci. Il signore è per le scale coi suoi
+amici.... Ho già mandato il servitore a fargli i salamelecchi.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(convulsa, a Mario)* Tu, un momentino in questo
+cantuccio. *(Lo spinge in un angolo della stanza.)*
+Abbi pazienza, Mario mio.... Quando Teresina t'avvertirà,
+te n'andrai, come al solito, pel corridoio.
+
+[pg!208]
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(affaccendata, dando a Mario il cappello e il bastone)*
+Ah! se non prendiamo una casa con due
+uscite, qui, una volta o l'altra, facciamo il *patatrac*!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sempre in gran fretta, a Teresa)* Taci, ora! *(Poi
+a Mario, dandogli un bacio e guardandolo negli
+occhi)* Ci vediamo domani?...
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(abbassa lo sguardo.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(perplessa)* Mario, ci vediamo domani?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(stringendosi nelle spalle)* Non so....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Come non sai?...
+
+*(Si ode dalla stanza contigua il vocío delle persone
+che arrivano.)*
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(impaziente, tirando Clelia verso il fondo)* Vi
+vedrete, vi vedrete; ma, adesso, fuori! fuori!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(a Clelia)* Va, va....
+
+[pg!209]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(apre la porta — e in quell'istante il vocío giunge
+più forte —; indi, ella, uscendo, la richiude. Si
+odono le sue parole dette vivacemente:)* Oh! bravi!
+bravi! *(E la sua voce si confonde con quella degli
+altri.)*
+
+
+SCENA III.
+----------
+
+TERESA, MARIO.
+``````````````
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(resta attaccata alla porta tenendo fermi i battenti
+e accostando l'occhio alla serratura.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(col viso arcigno, il cappello in testa, attraversa
+la stanza sulla punta dei piedi, siede presso una
+scrivanietta, e scrive qualche cosa.)*
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(sempre con l'occhio alla serratura, senza guardar
+Mario, col braccio gli fa cenno d'andarsene.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(continua a scrivere.)*
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(voltandosi, gli dice, soffocatamente:)* Che fate là?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(continua a scrivere.)*
+
+*(Dalla stanza attigua, giungono queste parole,
+confusamente:)*
+
+[pg!210]
+ — Sì, sì.
+
+ — Un po' per uno, stasera.
+
+ — A me, a me....
+
+ — Ah! Ah! Ah! Ah!
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+Ve n'andate, sì o no?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(consegnandole la lettera che ha scritta)* Questa
+a Clelia.
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+Ma che significa ciò?
+
+.. class:: center
+
+| :scene:`(Parlano tutti e due a voce bassissima.)`
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Che non ci torno più.
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+Siete matto! Volete farmela morire! Già, tanto,
+questa lettera io non glie la do, e domani farete
+la pace....
+
+*(Risuona di dentro uno scoppio di risa sguaiate.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(irritato e disgustato, s'avvia verso la porta a
+sinistra: resta ancora un momento, guardando
+intorno, commosso e titubante. Ad un altro scoppio
+di risa, egli, risoluto, come se si liberasse finalmente
+da un incubo, se ne fugge.)*
+
+[pg!211]
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+*(guarda la lettera, e, dopo una breve esitazione,
+la lacera, e ne nasconde in tasca i pezzettini. Indi,
+tossendo forte, spalanca i due battenti dell'uscio in
+fondo.)*
+
+
+SCENA IV.
+---------
+
+CLELIA, CARSANTI, il :small-caps:`dottor` FONSECA, MATURI, GIANNETTI, VERANI.
+`````````````````````````````````````````````````````````````````````````````
+
+*La stanza attigua è un salotto, splendido di
+specchi e di candele accese. — Entrano tutti, seguendo
+Clelia.*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Venite, venite: qui si sta meglio, qui ho la mia
+poltrona favorita. *(A Teresa, a parte)* È andato?
+
+.. class:: center
+
+| :small-caps:`Teresa`
+
+Sì. *(Esce.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+A proposito, io non vi ho ringraziati ancora pei
+bellissimi fiori. *(Indicandoli)* Come siete stati
+graziosi!
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+*(protestano modestamente)* Oh!
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Dovere! Dovere!
+
+[pg!212]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Cioè, cioè... voi, Maturi, non m'avete mandato
+niente.
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+*(che era rimasto indietro, si fa innanzi confuso)*
+Niente, io?... È strano.... Mi pareva d'aver mandato....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Un pensiero gentile?... Mi basta.
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+*(ridono.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(con aria di protezione)* Lasciatelo in pace il povero
+Maturi.
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Piuttosto, vediamo un poco questi orecchini magnifici
+di cui l'amico Carsanti ci ha molto parlato.
+La commissione di vigilanza è sopra luogo e deve
+procedere alle debite osservazioni.
+
+.. class:: center
+
+| :small-caps:`Verani, Fonseca, Maturi`
+
+Sicuro, sicuro!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ah, sì, gli orecchini che Gerardo mi ha regalati
+per la mia festa? Vedrete: sono una bellezza
+davvero!
+
+[pg!213]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(impettito, dice piano a Clelia)* Ma non hai voluto
+farmi l'onore di metterli, stasera.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(carezzandolo lievemente)* Hai ragione.... Scusami....
+Intanto, sii buonino: valli a prendere tu
+stesso. Li troverai nel mio scrignetto, che è aperto,
+mi pare.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Fai male a lasciarlo aperto: è una imprudenza.
+*(Esce a destra.)*
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+*(va subito dietro a Clelia e le dà un bacio sui
+capelli.)*
+
+.. class:: center
+
+| :small-caps:`Giannetti, Maturi, Fonseca`
+
+*(rimproverandolo scherzosamente)* Verani! Verani!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+*(scusandosi)* Eh! sui capelli....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Verani, voi avete una segreta sì, ma violenta
+passione per me.
+
+.. class:: center
+
+| :small-caps:`Giannetti, Maturi, Fonseca`
+
+Sì, è vero! È vero! È verissimo!
+
+[pg!214]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(ridendo)* Ah! ah! ah!
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Ma bada, Clelia, che io sono iscritto prima di
+lui.... Divento una belva se me lo fai passare innanzi!
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Come c'entri tu! Tu sei medico, e i medici non
+sono....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Cosa non sono?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(rientrando con in mano gli orecchini)* Non erano
+nello scrigno, cara Clelia. Ah, che testolina!
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+*(circondandolo)* Vediamo, vediamo.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(con ostentata modestia)* Non c'è nulla di meraviglioso.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Corbezzoli!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Stupendi!
+
+[pg!215]
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Perbacco!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Poche volte ho visti dei brillanti limpidi come
+questi.
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Che acqua!...
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(alle spalle di Carsanti, senza farsi udire da
+lui)* Per darla a bere!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+E notate la montatura.
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Ci scommetto che non è lavoro napoletano.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ma che napoletano!
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+*(con servilismo lusingatore)* Orecchini esteri! Si
+vede!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Vi costano un occhio!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Circa... sei mila lire!
+
+[pg!216]
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Allora... due occhi!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Bisogna congratularsi *(guardando Clelia)* con
+chi li ha saputi meritare....
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+E con chi li ha saputi comprare!
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Soprattutto, poi, con chi li ha saputi vendere!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(orgoglioso e sempre ostentando modestia)* Ed
+ora fatemi il piacere di finirla. Vado a riporli,
+Clelia?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Sì, caro.
+
+.. class:: center
+
+   | :small-caps:`Carsanti`
+   |
+   | *(esce a destra.)*
+
+*(Appena uscito, tutti si accostano a Clelia, pettegoleggiando
+e parlando sommessamente.)*
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Che brutta roba!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Comperati di seconda mano.
+
+[pg!217]
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+Ecco!
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*Cosuccia*, sei certa che non sono falsi?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Linguacce!
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+*(come vede rientrar Carsanti, esclama)* Ah!
+splendidi! splendidi! Che acqua!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Basta! non mi seccate più!.... Ditemi, invece:
+avete sete?
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+A proposito di acqua?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ma no. Stasera, *Champagne*. Che diamine!
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Se si tratta di *Champagne*, tutti abbiamo sete!
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*Sitio! Sitio!*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(tocca il bottone del campanello elettrico e va
+nella stanza vicina, in fondo, a parlare con Giacomo
+il servo.)*
+
+[pg!218]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(gettando un sospiro canzonatorio)* Verani, che
+avete?
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+*(che è assorto, posando a sentimentale)* Una
+giornata di spleen.
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Se hai dormito tutto il santo giorno!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Sì, ma, dormendo, mi sono accorto che avevo lo
+spleen. *(Languidamente, a Clelia)* E anche voi,
+Clelia, stasera non siete di buon umore.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con uno dei suoi soliti sforzi di dissimulazione)*
+Perchè no? Anzi! Suoniamo, cantiamo, balliamo,
+se volete. *(Si alza.)* Non v'ho detto che da una
+settimana prendo lezione di pianoforte. *(Va al piano
+e siede.)* State a sentire che progressi. *(Pesta
+violentemente la tastiera con un sol dito, principiando
+il motivo del Rigoletto: «La donna è mobile»;
+poi ripete le prime note accompagnandovi
+la voce)* «La donna è un mobile....»
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+*(sospirando)* Ah! la donna — la donna che dico
+io — sarebbe per me tutt'altra cosa!
+
+.. class:: center
+
+| :small-caps:`Maturi, Giannetti, Fonseca`
+
+*(rimproverandolo scherzosamente, come prima)*
+Verani! Verani!
+
+[pg!219]
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Non sospirare.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Per chi sospira, Verani?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Per me, per me. *(Si alza dal piano.)*
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+*(vi si siede.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(celiando, tira Verani per l'orecchio)* Se ti permetti
+di sospirare per Clelia... *(abbassa la voce,
+velenosamente scherzoso)* non ti presto più danaro!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Ritiro il sospiro immediatamente!
+
+*(Entrano Giacomo portando in un vassoio due
+bottiglie di* Champagne *e i bicchieri a coppa, e
+Teresa, portando, in un altro vassoio, pasticcini e
+bonbons.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(battendo le mani)* Ecco lo *Champagne*!
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+*(al pianoforte, accenna il motivo del brindisi della*
+Cavalleria rusticana.)
+
+[pg!220]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Bravo Giannetti! Anche pianista.
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Una volta, sonavo un poco.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(stura, intanto, le bottiglie, e quindi versa lo*
+Champagne *nei bicchieri, parlottando col servo.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(a Giannetti)* Continuate, continuate: il brindisi
+della *Cavalleria rusticana* mi piace.
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+*(continua a sonare.)*
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+E Carsanti lo canterà... *(A Clelia)* Voi già sapete
+che Carsanti canta....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Non rilevare queste velleità della prima giovinezza....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Cattivo! E non me ne avevi detto niente.
+
+[pg!221]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Va là, va là, non stare a sentire tutte le scioccherie
+che ti contano.... Offri da bere a questi
+signori.
+
+.. class:: center
+
+| :scene:`(Giacomo e Teresa vanno via.)`
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(offre un bicchiere a Fonseca)* Al primo iscritto.
+*(Poi, a Giannetti, che cessa di sonare)* A voi il vostro
+«vino spumeggiante». *(Poi, a Maturi, che, appartato,
+con innanzi un mucchio di dolciumi, ne
+mangia avidamente)* Buon appetito!
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+*(con la bocca piena)* No.... Stasera ho lo stomaco
+chiuso.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(offrendo un bicchiere a Verani, sospira burlescamente)*
+A voi, Verani.
+
+.. class:: center
+
+| :small-caps:`Giannetti e Fonseca`
+
+*(insieme)* E va bene! E va bene!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(prende un bicchiere e l'offre a Carsanti, che già
+ne ha uno in mano. Allora, contraccambiandosi uno
+sguardo grazioso, si scambiano i bicchieri, e se li toccano.)*
+
+[pg!222]
+
+.. class:: center
+
+| :small-caps:`Tutti, meno Maturi`
+
+*(li circondano per toccare.)*
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+*(toccando i bicchieri di Clelia e di Carsanti)*
+Alla vostra felicità!
+
+.. class:: center
+
+| :small-caps:`Carsanti e Clelia`
+
+*(insieme)* Grazie, grazie.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Su, su, amici, un po' d'allegria.... Stasera vogliamo
+fare delle follìe!
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Mi sottoscrivo. *(Alzando il bicchiere)* Hip!
+hip! hip!
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+*(meno Maturi che è sempre intento a mangiare)*
+Urrah!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(beve il bicchiere colmo, e impallidisce.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Che hai?
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Clelia!...
+
+[pg!223]
+
+.. class:: center
+
+| :small-caps:`Giannetti, Fonseca, Maturi`
+
+Oh!...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(mal sorreggendosi)* Niente, niente.... *(Tentando
+di sorridere e di celiare)* Un po' di Margherita
+Gautier fa sempre un bell'effetto....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(a Carsanti)* Hai del liquore anodino?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(abbandonandosi sulla poltrona)* No... piuttosto
+dell'aceto inglese....
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+*(vanno verso la stanza da letto a destra.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(cavando di tasca l'ampollina)* Ce n'ho io, ce
+n'ho io.... *(Odora l'aceto inglese.)*
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Vuoi sbottonarti? Chiamiamo Teresa? *(Le mette
+la mano sulla fronte.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+No, non è necessario. *(Riavendosi)* È passato.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(tastandole il polso)* Sicuro... non è nulla....
+
+[pg!224]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ci hai allarmati.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Scusami, Gerardo.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+E intanto, vedi, ti sei versato lo *Champagne*
+sull'abito.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Via! Via! Andate là, voialtri: lasciate che io
+interroghi la mia cliente.... Anche tu, Carsanti, via!
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+Sì, sì, interroga. *(S'allontanano.)*
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+*(profitta e ricomincia a mangiare.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(a Fonseca)* Veramente, è passato. Un lieve capogiro,
+sai, accompagnato da un po' di nausea qui....
+*(indicando lo stomaco)* e da una stretta alla gola.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(abbassando molto la voce)* Bambina: guardami
+in faccia. Non c'è proprio altro da dirmi?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sorridendo tristamente)* Oh! Che pensi, adesso!
+
+[pg!225]
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(all'orecchio)* Io gli annunzierei subito l'erede al
+trono!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(di scatto, con voce severa e soffocata)* No, per
+carità, non scherzare su questo.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Sciocca! Sarebbe una fortuna per te.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Te ne scongiuro, taci.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(stringendosi nelle spalle, s'allontana.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ebbene?
+
+.. class:: center
+
+| :small-caps:`Gli altri`
+
+Ebbene? Ebbene?
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(umoristicamente)* Sta a vedere che un medico
+deve mettere in piazza i mali dei suoi clienti.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(chiamandolo gentilmente)* Gerardo, Gerardo,
+senti.
+
+[pg!226]
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Io protesto! Noi siamo la commissione di vigilanza
+e dobbiamo essere informati di tutto.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(s'avvicina a Clelia.)*
+
+.. class:: center
+
+| :small-caps:`Gli altri`
+
+*(si raggruppano a parte, cicalando tra loro.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(piano a Carsanti)* Fammi un favore: mandali
+via, non sto perfettamente bene.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Che figura mi fai fare? Li avevo invitati a passare
+la serata con noi. *(Continuano a parlare.)*
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+*(in mezzo al gruppo)* Diavolo, diavolo! Gli combinerebbe
+un marmocchio?
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+Di già!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Sarebbe un bel colpo!...
+
+*(Le parole di Giannetti, di Maturi e di Verani,
+appena si distinguono nel vocìo.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(malcontento, a Clelia)* Ti servirò. *(Rivolgendosi
+agli amici.)* Signori miei, io vi metto alla porta.
+[pg!227]
+Clelia non ha avuto il coraggio di dirvelo, ma ella
+ha bisogno di riposo.
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Oh! ce ne andiamo subito.
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Certamente.
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+*(tuttora con la bocca piena)* Quanto a me, senza
+cerimonie, se anche la signora ha bisogno di riposo,
+io posso restare benissimo.
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Tu, senza cerimonie, verrai con noi, perchè senza
+cerimonie hai mangiato bene e bevuto meglio.
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+Non dicevo per questo....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Arrivederci, *Cosuccia*. *(Dandole la mano furbescamente)*
+Va a dormire, e... ci siamo intesi? Caro
+Carsanti....
+
+.. class:: center
+
+| :scene:`(Si stringono la mano.)`
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Buona notte.
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Buona notte.
+
+.. class:: center
+
+| :scene:`(Saluti ed altre strette di mano.)`
+
+[pg!228]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Voi non me ne volete, amici miei, eh?
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+Vi pare!
+
+.. class:: center
+
+| :small-caps:`Verani`
+
+Verremo a vedervi al più presto possibile.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(a Carsanti che li accompagna verso la porta)*
+Non t'incomodare....
+
+.. class:: center
+
+| :small-caps:`Giannetti`
+
+*(in tono lievemente canzonatorio)* Resta tu, resta
+tu....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ma che! Lasciate almeno che io vi metta alla
+porta con tutti gli onori.
+
+.. class:: center
+
+| :small-caps:`Verani, Giannetti, Fonseca`
+
+*(insieme, un po' sogghignando)* Grazie, grazie!...
+Maturi, e tu?
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+Eccomi. *(S'inchina a Clelia.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(un po' in disparte, a Maturi)* Ohè, domani mattina,
+avverti Narducci che io gli mando l'usciere....
+
+[pg!229]
+
+.. class:: center
+
+| :small-caps:`Maturi`
+
+S'intende bene. *(E raggiunge gli altri.)*
+
+.. class:: center
+
+| :scene:`(Fonseca, Giannetti, Verani, Maturi vanno via.)`
+
+
+SCENA V.
+--------
+
+CARSANTI *e* CLELIA, *poi* GIACOMO.
+```````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(si avvicina affettuosamente)* Se ne sono andati.
+Sei contenta?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(dolce)* Sì.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+E come ti senti?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Molto meglio. *(Gli dà la mano con cordialità.)*
+Buona notte, amico mio.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(meravigliato)* Mandi via anche me!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con cortesia fredda)* No... Resta, se vuoi. Anzi,
+mi fai piacere. Credevo che tu volessi andartene.
+*(Pausa.)* Io me ne sto ancora un pochino qui, zitta
+zitta, rannicchiata sulla mia poltrona. Tu, parla.
+Raccontami qualche cosa.
+
+[pg!230]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(scoraggiato)* Che vuoi che ti racconti? Niente
+che ti possa interessare! *(Fa qualche passo su e
+giù per la stanza, indi siede lontano da Clelia. — Dopo
+una lunga pausa)* Clelia....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Gerardo.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Sei tu soddisfatta di me?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Che domande!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Sei soddisfatta di me?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma più che soddisfatta....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ti manca nulla?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Nulla.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Indovino ogni tuo desiderio?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+È vero, è vero.
+
+[pg!231]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Lesino forse sulle spese?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+O che! Sei così largo, così galante....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+E... farò anche di più....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma io non permetterò mai che tu ecceda!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(va a sederle accanto)* Compreremo, sai, la pariglia
+di sauri inglesi che vende Ebe Michel....
+Ebe è in liquidazione. *(Pausa.)* Voglio che tu sii
+la più elegante di tutte. — Sei già la più carina....
+*(Le prende le mani.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sforzandosi di essere gentile, dice di no col
+capo.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(con espansione timida)* Sì, sì, la più carina...
+la sola che sappia ammaliare un uomo come me....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si turba.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(ne tiene sempre le mani e le serra fra le sue)*
+... perchè, tu lo vedi, io vicino a te divento un
+[pg!232]
+collegiale... un collegiale innamorato sino alle
+midolla, che si tormenta, che spasima e che....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ahi, non mi stringere così.... Le tue mani sono
+di ferro....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(alzandosi e raffrenandosi)* ... e che resta come
+uno sciocco alla prima resistenza!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(Lunga pausa. — Si alza lentamente.)* Amico mio,
+non vi dispiaccia.... Me ne vado a letto: sono un
+poco stanca. Arrivederci, eh?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(sogghignando e concentrandosi in sè)* Arrivederci....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(attraversa pian piano la stanza, andando verso
+destra. Quando sta per oltrepassare la soglia, Carsanti la chiama.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(timidamente)* Clelia....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si volta.)*
+
+[pg!233]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(supplichevole)* Un bacio....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con finta disinvoltura)* Volentieri. *(Come Carsanti
+le cinge la vita col braccio, ella si stecchisce,
+e sfiora appena con le labbra il volto di lui, con
+evidente sforzo.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(la bacia con paurosa tenerezza, poi, carezzandole
+i capelli)* Sei molto stanca?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Sì....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+... Senti.... Tutto, tutto potrai ottenere da me!
+Abbi pietà! *(L'abbraccia avidamente.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(come presa da una paura invincibile, si svincola.)*
+No! no! questo no! *(Le si legge sul viso
+la sincerità della repulsione.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(cerca reprimersi, ma poi, pallido di collera, scoppia.)*
+Ah!... nessuna vergogna, nessun dolore può
+eguagliare il supplizio di vedersi respinto come
+questa femmina mi respinge!... Da venti giorni,
+io combatto con tutti i mezzi per piegarla, per
+conquistarla; da venti giorni, io la circondo di
+[pg!234]
+cure, di cortesie, d'affetto, io la colmo di denaro,
+di abiti, di gioielli... e lei mi sfugge, lei mi disprezza,
+lei mi offende concedendomi appena l'elemosina
+d'un bacio sdegnoso e mostrandomi sfacciatamente
+il suo disgusto, come se avesse oramai
+il diritto di succhiarmi il sangue per poi buttarmi
+via come un limone spremuto.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Calmati, Gerardo, te ne prego... non giudicarmi
+così.... Ricordati, ricordati bene a quale condizione
+io accondiscesi....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Condizione assurda!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(altera)* Assurda o no, voi e la vostra mezzana,
+insidiandomi, me la faceste credere possibile, ed
+io l'accettai. *(Cambiando subito tono — con accento
+umile e remissivo)* Non dico che adesso voi abbiate
+torto; ma, via, non potrete negare d'avermi stranamente
+ingannata.... Sulle prime, m'avevate fatto
+supporre in voi un misto di generosità e di vanità,
+e io avevo creduto di potere essere da voi
+soccorsa non diventando... che la vostra vetrina.
+Pur troppo, non sono nuova alla vita: so che
+spesso noialtre creature frivole ed inette non siamo
+che l'insegna della maschilità e della vanità di chi
+ci prende in fitto. E questa idea, da cui tante donne
+si sentono offese, a me, invece, aveva sorriso. Ero
+più o meno colpevole delle altre? Non so. Diversa
+[pg!235]
+certamente: e questa è la vera causa di tutto ciò
+che accade. Diversa, sì, diversa.... E quando mi
+sono accorta di essermi lasciata ingannare, quando
+mi sono accorta dell'assurdità delle mie illusioni,
+ho tentato di abituarmi al pensiero d'essere veramente
+vostra; ho tentato di ridiventare come sono
+le altre, come sono stata anch'io; ma qualche cosa
+di misterioso e d'invincibile me lo ha impedito
+inesorabilmente! Ora comprendo d'essere stata
+un'egoista e peggio, comprendo che debbo chiedervi
+perdono; e ve lo chiedo umilmente, umilmente....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(commosso)* No, non chiedermi perdono. Non voglio.
+Mi basta che tu sii pentita.... La tua umiltà
+*(quasi stizzoso)* mi molesta.... Non voglio che tu
+sii umile con me! *(Diventando mellifluo)* E poi...
+perchè chiedermi perdono? Tu non sai quello che
+fai.... Tu sei *Cosuccia*, non è vero? *(ricominciando
+a carezzarla)* ... la mia *Cosuccia*, e io desidero che
+tu non ti tormenti, che tu non sciupi con le sofferenze
+questo bel visino.... Io dimenticherò il male
+che mi hai fatto... io non oserò mai più di alzare
+la voce.... E tu, anche, sarai buona... sarai la mia
+amica... la mia compagna... la mia amante.... Sì?
+La mia amante?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(glacialmente solenne, scostandosi da lui)* Amante,
+mai!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(acceso d'ira)* Ah! vivaddio, ma io ti costringerò!
+*(Sta per avventarsi su lei, afferrando una sedia.)*
+
+[pg!236]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Bada: chiamo gente!... mi metto a gridare dalla
+finestra!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(trattenendosi)* Non temete.... Non userò la violenza.
+Vi costringerò... *(sinistramente)* con tutta
+la cortesia che merita una pari vostra. *(Poi imperiosamente)*
+Scegli: o mi dici di sì, o io ti scaccio
+stasera stessa da questa casa!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con esultanza pazza e baldanzosa)* Ah! se non
+sai costringermi che così, io... sono salva!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(trepidante)* Come!?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(trionfalmente)* Me ne vado!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(sbalordito)* Te ne vai?!...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sempre più eccitata da una gioia mista di rabbia,
+va a dirgli sul muso)* Sì, sì, me ne vado! Me ne
+vado! *(Scoppia in una risata convulsa; indi, minacciosamente)*
+Aspetta. *(Corre nella sua camera
+da letto, uscendo dalla porta a destra.)*
+
+[pg!237]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(resta fremendo, e passeggia concitato. È inferocito;
+ma dal suo volto traspare il desiderio vivo
+che ella non parta.)*
+
+.. class:: center
+
+| :small-caps:`Giacomo`
+
+*(comparisce, rispettosamente, sotto l'arco della
+porta, in fondo.)* Signore, posso spegnere i lumi?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(non si accorge di lui, e, assorto nei suoi pensieri
+angosciosi, si ferma presso un tavolino.)*
+
+.. class:: center
+
+| :small-caps:`Giacomo`
+
+*(dopo avere aspettato invano la risposta, comincia,
+nella sala contigua, a rassettare i mobili e a
+spegnere i lumi. I battenti della porta sono tuttora
+spalancati.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(risoluto, si precipita nella camera di Clelia.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(grida di dentro:)* No! Lasciatemi! Lasciatemi!
+Lasciatemi! *(Poi, correndo, guardandosi indietro,
+avvolta in uno scialle, attraversa la stanza, ed
+esce per la porta a sinistra.)*
+
+.. class:: center
+
+| :small-caps:`Giacomo`
+
+*(resta a spiare presso la porta, mezzo nascosto,
+attonito.)*
+
+.. vspace:: 2
+
+.. class:: center
+
+| :scene:`(Sipario.)`
+
+[pg!238]
+
+[pg!239]
+
+
+
+
+ATTO TERZO
+==========
+
+
+*Camera raccolta, modesta e pulita, senza tappeti,
+senza tappezzerie. Qualche poltrona di tela-pelle,
+altre suppellettili vecchie ma decenti. Una porta in
+fondo, una laterale. In un cantuccio, un piccolo
+cavalletto coperto, qualche tela, molti brandelli di
+stoffa, in disordine. Questo cantuccio è come il
+frammento d'uno studio di pittura. È sera. Sul
+davanti, una tavola tonda con un sostegno a tre
+piedi, coperta da un panno scuro. La tavola è illuminata
+da un vecchio ed alto lume ad olio con un
+gran cupolino di tela verde. Il resto della camera,
+nella penombra.*
+
+
+SCENA I.
+--------
+
+*Signora* RENZI, *il signor* BRAMBINI, *don* BARTOLOMEO, MARIO, BEATRICE.
+`````````````````````````````````````````````````````````````````````````
+
+*Presso la tavola, giocano a dama la signora*
+:small-caps:`Renzi` *e il signor*
+:small-caps:`Brambini`. *Dall'altra parte della
+tavola, don*
+:small-caps:`Bartolomeo` *è intento a ricamare un
+paio di pantofole su un telaietto.* :small-caps:`Mario` *ha dinnanzi
+molti giornali spiegazzati. Ne ha uno in mano e
+lo legge.*
+:small-caps:`Beatrice`, *seduta presso di lui, ha dinnanzi
+un cestino da lavoro e nastri e pezzi di mussola,
+e, ascoltando, cuce.*
+
+[pg!240]
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Avete giocato?
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Sissignora, ho mossa questa pedina.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Ah! va bene. *(Giocando)* Dama!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+State a sentire, dunque: *(continuando a leggere
+a voce alta:)* «La polizia, sempre tardi come i carabinieri
+di Offenbach, accorreva, e i signori Negrotti
+andavano cercando le tracce del notturno
+visitatore e andavano constatando le conseguenze
+della visita. Ma tutto era a posto. Si entrò ansiosi
+nella camera della signorina Margherita, una fanciulla
+sui diciassette anni, e la si trovò convulsa
+e piangente.»
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Dio mio, che era accaduto?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(a Brambini che ascolta il racconto invece di
+giocare)* Tocca a voi, capitano.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Ma, quello lì mi stordisce con la sua lettura.
+
+[pg!241]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(continuando:)* «La fanciulla, sulle prime disse
+di avere udito un rumore e d'aver sospettato che
+un ladro si fosse intromesso in casa. Ma la finestra
+della camera era aperta; e la poverina, piangendo
+dirottamente, confessò....» *(Impappinandosi per
+l'imbarazzo, interrompe la lettura.)*
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+«Piangendo dirottamente»?... Che confessò?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Che confessò?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Avanti, avanti.... Andiamo....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(mettendosi subito il giornale in tasca)* Niente,
+niente, don Bartolomeo.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Uhm! Ci avete lasciati sul più bello.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Proprio!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Ma che! Non ne valeva la pena: scempiaggini!
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(a Brambini)* Benedetto Dio, ora spero che baderete ai casi vostri.
+
+[pg!242]
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Aspettate.... Adesso, vi faccio una mossa magistrale,
+da quel vecchio capitano che sono.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(dando a tenere un lembo di mussola a Mario)*
+Volete?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sì, volentieri.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(taglia la mussola accuratamente.)*
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(gettando uno sguardo alla scacchiera)* Eh! eh!
+la vostra tattica, capitano, è quella di quarant'anni
+fa.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(a Mario, alzandogli la mano)* Un po' più su....
+Bravo, così. *(Poi gli dà a tenere un altro lembo
+di mussola, per tagliarla.)*
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+*(a Bartolomeo, in tono canzonatorio)* Che cosa
+lavorate, don Bartolomeo?
+
+[pg!243]
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Un paio di pantofole, a servirvi.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Ebbene, pensate alle vostre pantofole, voi!
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Io soffio, mangio e faccio un'altra dama.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Da quel vecchio capitano che siete, vi fate battere,
+se non vado errato. Veramente, da buon capitano
+borbonico, dovreste piuttosto capitolare.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+*(un po' sul serio)* Meglio capitolare che tradire,
+maestro mio.... *(Giocando)* Faccio anch'io dama.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Troppo tardi!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(a Beatrice, gentilmente)* Basta?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(togliendogli di mano la mussola)* Sì, basta. Grazie.
+
+[pg!244]
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Eh! sì, *(riflettendo)* troppo tardi...
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Siete tardigrado, caro capitano.... Io, già, trattenuto
+sempre dai miei... *sacri* doveri di maestro di
+ballo, non ho mai fatto il soldato e tanto meno il
+comandante... Ho comandato, al più al più, qualche
+quadriglia, quando le quadriglie si comandavano...
+Ora non usa più... e le quadriglie si ballano
+a memoria... Ma, lasciamo andare... Volevo dire,
+a proposito della vostra lentezza, che se fossi stato
+un comandante, un pezzo grosso, insomma, nell'esercito,
+avrei introdotto nella milizia la scuola
+di ballo... *(Gli altri ridono.)* E c'è poco da ridere.
+Essa rende svelti, leggeri e veloci.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+*(canzonando)* Scommetto che avreste introdotto
+nella milizia anche una scuola di ricamo.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+E perchè no?... Con l'avvenire non si scherza....
+Io, per esempio, ora che non trovo più da lavorare
+coi piedi — perchè al giorno d'oggi tutti sanno
+ballare sin dalla nascita — lavoro con le mani.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(vantandosi e facendo l'ultima mossa)* Mi dispiace,
+ma ho vinto io!
+
+[pg!245]
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+E si capisce!... Mi fanno distrarre maledettamente:
+quello lì col giornale, quest'altro col ballo e
+col diavolo che se lo porti!... Ma, adesso, la pace,
+veh! Una partita seria e mi ci metto di puntiglio.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Sì, sì, il signor don Bartolomeo è pregato di tacere....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(alzandosi)* E io, intanto, vado a fare due passi
+e a fumare un sigaro. *(Affettuoso)* Voi, Beatrice,
+non avete più bisogno di me?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Bisogno, no...
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(dandole la mano)* Allora, permettete?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(graziosamente)* Permettiamo.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(a lei)* Se non vi ritrovo qui al mio ritorno, vi
+rivedrò certamente prima che andiate a letto: è
+vero?
+
+[pg!246]
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Ah! la solita cantatina dell'ultim'ora?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Ma stasera la vogliamo allegra, la cantatina.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Vi obbedirò.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Buona sera, capitano. Buona sera, don Bartolomeo.
+Vi raccomando: zitto, lasciateli giocare. *(Alla
+signora Renzi)* Mamma, vuoi che comperi le pasticche
+per questa notte?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Ma se non ho più tosse.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sarà sempre meglio averne in casa. Arrivederci,
+mamma. *(Via dal fondo.)*
+
+[pg!247]
+
+
+SCENA II.
+---------
+
+*Signora* RENZI, BRAMBINI, BEATRICE, BARTOLOMEO.
+````````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(dopo aver aggiustato le pedine)* Ci siamo.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Ci siamo. *(Sta per giocare.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Oh! scusate, la prima mossa spetta a me.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Non gli date quartiere, signora Maria.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+*(con uno sguardo di rimprovero, a Bartolomeo)*
+Be'?...
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+[pg!248]
+
+*(chiudendosi le labbra con le dita, borbotta.)* Vado
+a sedermi lontano. *(Si alza.)* Se resto qua, tanto,
+io mi conosco, alla tentazione di parlare, non ci
+resisto. *(Va a posare il telaietto sopra un piccolo
+tavolino molto distante dalla tavola. Canticchiando
+la mazurca del* Ballo in maschera, *cava di tasca un
+mozzicone di stearica e lo accende.)* Taran, taran,
+taran, taran, tarèra... *(Fa colare un po' di cera sul
+tavolino, e, sulla cera colata, mette il mozzicone acceso.
+Indi, ricomincia a lavorare.)* Oh! benissimo!
+Ciascuno per sè e Dio per tutti.... Taran, taran,
+taran, taran, tarèra... *(Pausa)* Silenzio generale.
+*(Brontolando:)* Il momento è solenne: le sorti della
+patria sono in pericolo.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+*(assorto nel gioco)* A vele gonfie!
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(che, cucendo, si è interessata alla partita e ha
+guardato la scacchiera dietro le spalle della signora
+Renzi, avverte a un tratto:)* Attenta, attenta, signora
+Renzi!... Dovete soffiare.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Bella prodezza! Due contro uno!... E tu, birichina,
+*(celiando)* ti metti a combattere tuo nonno? Vattene
+di lì!
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Venitevene qua anche voi, signorina Beatrice.
+Lasciate che il nonno perda tranquillamente quest'altra
+partita.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+E voi possiate perdere la lingua!
+
+[pg!249]
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Sì, maestro, ora me ne vengo da voi per non cadere
+in contravvenzione. *(Si alza e, portando seco
+il lavoro, va a sedere accanto a don Bartolomeo.)*
+Santa pazienza!
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Oh! si respira!...
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(a Beatrice)* Vicino a me, vicino a me. Parliamo
+un po' di cose gravi.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Cose gravi non ce n'è.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Uhm! *(Abbassando la voce)* Come va la faccenda?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Quale?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(furbescamente)* Quella del cuore.... Il frutto mi
+sembra maturo: coglietelo a tempo.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(compiaciuta)* Non vi comprendo.
+
+.. class:: center
+
+| :scene:`(Tutti e due parlano piano.)`
+
+[pg!250]
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Eh! non tante storie! Che gli volete bene, se ne
+accorgono anche i muri.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(sospirando)* E se pure ciò fosse vero, a che basterebbe?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Andate là. Anche lui c'è entrato, oramai. Vi dico
+che il frutto è maturo. Io me ne intendo. Bisogna
+fare in modo che egli si decida, ecco. Volete che,
+con garbo, glie ne parli io?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Per amor di Dio, non fate questo!
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(che, più del capitano, è vicina a Beatrice e a don
+Bartolomeo, ode qualche parola, e vorrebbe udir
+meglio.)*
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Che male ci sarebbe? Anzi! Un amico comune
+è la persona più adatta a stringere, come suol dirsi,
+i sacchi.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+No, don Bartolomeo, no! no! Io tremo al solo
+pensarci.
+
+[pg!251]
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+*(alla signora che si distrae per udire)* Ma ora
+siete voi che vi distraete.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(a Beatrice)* Tremare! Nientemeno che tremare?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(accalorandosi)* Sicuro! Si trema quando si sta per
+sentire la parola che deve dare tutto o togliere tutto!
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(ha udito, ed esclama senza volerlo:)* Cara!
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Avete detto?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Niente! Giocate.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Io ho giocato e ho fatto dama; ma voi... dove
+avete la testa?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Via, non vi arrabbiate. *(Giocando e parlando
+piano)* Vi dirò poi un'altra volta dove ho la testa,
+e sono certa che mi assolverete.
+
+[pg!252]
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Provvisoriamente, vi mangio due pedine e vado
+avanti.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(a Bartolomeo)* Vi siete ammutolito?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Mi sono ammutolito perchè con voi non c'è
+mezzo di spiegarsi.... Dovreste intendere che se don
+Bartolomeo parla, ne ha le sue buone ragioni.
+*(Quasi all'orecchio di lei)* Insomma... insomma, stamane,
+il signor Mario è venuto su, da me, a farsi
+prestare, com'egli ha detto, un po' di sole per
+mettere non so che tinte a un suo bozzetto. Quaggiù,
+poveraccio, al primo piano, egli non ha altro
+sole che quello che gli mandate voi dalla finestrella
+dirimpetto....
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(abbassa gli occhi e il capo, arrossendo.)*
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Inutile arrossire, adesso: rossore sprecato! Egli,
+dunque, è venuto da me, e mentre imbrattava una
+tela, io ho cominciato a stuzzicarlo: — «Signor Mario,
+se allo stesso piano vostro non abitassero quei
+due occhi che sapete, io vi proporrei uno scambio
+di case. Tanto, io, del sole non so che farmene, e,
+[pg!253]
+quanto a ballare e a ricamar pantofole, so farlo anche
+all'oscuro.»
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(ascoltando acutamente)* E lui?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Lui: — «Non vi preoccupate, don Bartolomeo:
+quelli lì, vicini o lontani, nessuno me li porta
+via.»
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Ah?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+«E se io, signor Mario, volessi farvi la concorrenza?» — scherzavo,
+capite?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Capisco!
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Per tutta risposta mi ha azzeccata una pennellata
+di biacca sul naso. *(Si tocca il naso come per constatare
+il fatto.)*
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+*(giocando)* Povera Signora Maria, è bell'e spacciata!
+
+[pg!254]
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Ma io gli ho detto: — «Ohè, badate, giovinotto,
+di non far troppo il gradasso. Io ho un vantaggio
+su voi.» «Quale?» — m'ha domandato. Ed io, subito:
+«Le ragazze cercano il marito! il marito!,
+e appunto io, *(eccitandosi)* mi voglio ammogliare.»
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Bravo! E lui? lui?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Lui mi si è accostato affettuosamente e mi ha
+fatto: «Vecchio volpone, so che mi siete affezionato
+e m'accorgo che volete scandagliarmi a fin di bene.»
+E, con la voce un po' commossa, m'ha soggiunto:
+«Don Bartolomeo, gli uomini non sentono veramente
+il bisogno di prender moglie che quando
+hanno trovata la donna che amano forse non *più*
+delle altre, ma... *meglio* delle altre.»
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(ansiosissima)* E allora?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(emozionato)* Allora, s'intende, io ho arrischiata
+la domanda decisiva: «E voi — gli ho detto — l'avete
+trovata, questa donna?»
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+*(inebriandosi del gioco)* Caricat'arm!
+
+[pg!255]
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(perplessa)* Che ha risposto?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(mal riuscendo a frenare la voce vibrante di tenerezza)*
+Perbacco, signorina Beatrice, la sua bocca
+ha taciuto, ma i suoi occhi, per quanto è vero Dio,
+m'hanno detto di sì!
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(levando un po' la voce nello slancio della gioia)*
+Ah, don Bartolomeo, vi abbraccerei!
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(ha udito le ultime parole di don Bartolomeo, e,
+presa da una gioconda commozione, prorompendo
+simultaneamente allo slancio di Beatrice, esclama:)*
+Ma sì, ho perduto, capitano, ho perduto.... Mangiatevi
+quest'altre pedine, e non se ne parli più!
+*(Alzandosi e ridendo)* Ah! ah! ah! Che battaglia!
+Che battaglia!
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Che trionfo!
+
+.. class:: center
+
+| :scene:`(Si alzano tutti.)`
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Sì, che trionfo! *(Cambiando tono, a Don Bartolomeo)*
+E voi, maestro, che avete borbottato sinora?
+[pg!256]
+Che avete fatto da meritare — almeno, così m'è
+parso d'udire — il desiderio d'un abbraccio?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Che ho fatto? Un bel mestiere, signora Maria, un
+bel mestiere!
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Beatrice, che ora è?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(guarda il suo orologetto.)*
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(piano alla signora Renzi)* Le ho parlato d'amore...
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(avvicinandosi a Brambini)* Nonno, sono le nove
+e mezzo. *(Resta presso di lui, aggiustandogli il soprabito.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(in disparte, a don Bartolomeo, celiando)* Le avete
+parlato d'amore! Con quel viso e con quegli anni?
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(tristemente)* Eppure, il cuore non domanda permesso
+al viso nè agli anni quando vuole voler bene...
+[pg!257]
+Ah, signora Maria, quante cose ridicole sono
+molto serie!...
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(stringendogli la mano)* Siete un brav'uomo!
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Sicchè, io vi lascio.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+Per me è ora canonica, e vi lascio anch'io.
+*(Prende con una mano il telaietto e con l'altra la
+candela accesa.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Di già?
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Eh! stasera si lavora perchè siamo alla fine del
+mese.... Da trent'anni che sono amministratore del
+marchese Bonaldi, non ho mai cominciato un mese
+senza chiudere i conti di quello precedente.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(in un tono di declamazione umoristica)* E, riconoscendo
+i vostri meriti, il marchese Bonaldi, un
+giorno o l'altro, vi otterrà dal vostro ex re la promozione
+a... generale borbonico.... al riposo! [1]_.
+
+.. [1] L'attore potrà dire: «dal vostro ex re, che dall'altro
+   mondo può fare anche dei miracoli, la promozione ecc. ecc.»
+
+   Quando fu scritto questo dramma, viveva ancora Francesco
+   II.
+
+[pg!258]
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Mi meraviglio che, come maestro di ballo, non
+siate ancora neppure commendatore!
+
+.. class:: center
+
+| :scene:`(Tutti ridono.)`
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Nonno, vorrei restare un pochino a far compagnia
+alla signora Renzi.
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Resta, se vuoi.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(alla signora Renzi, salutando)* Signora mia, buona
+notte! *(A Beatrice)* Signorina Beatrice,... cantatina
+allegrissima, stasera! Io, lassù, non la sento;
+ma, tanto, *(mostrando la candela)* mi rassegno anche
+a questo.
+
+.. class:: center
+
+| :scene:`(Scambio di saluti e molta animazione.)`
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Buona notte! buona notte!
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Buon lavoro, capitano!... Arrivederci, don Bartolomeo.
+
+[pg!259]
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(presso la porta, caricatamente)* Passi, generale...
+
+.. class:: center
+
+| :small-caps:`Brambini`
+
+Prego, commendatore.... Prima lei.
+
+.. class:: center
+
+| :small-caps:`Bartolomeo`
+
+*(passando altezzosamente)* Grazie!
+
+*(Brambini e don Bartolomeo vanno via, e la signora
+Renzi e Beatrice li accompagnano sino alla
+porta che s'apre sul pianerottolo, continuando a
+scambiar con essi saluti e celie.)*
+
+
+SCENA III.
+----------
+
+*Signora* RENZI *e* BEATRICE.
+`````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(chiudendo la porta, quasi tra sè)* Buone persone!
+*(Va a sedersi su una poltrona distante dalla tavola.)*
+Che ti diceva don Bartolomeo?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(imbarazzata)* Mi raccontava... degli aneddoti.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(affettuosamente)* Bugia!
+
+[pg!260]
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(vergognandosi)* Avete, dunque, udito.... *(Si nasconde
+il viso tra le mani.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(interrompendola)* Nulla di cui tu debba arrossire
+dinanzi a me. Bambina! È tanto tempo che il
+mio pensiero e il tuo s'incontrano nello stesso voto,
+ed è tanto tempo che io sono la tua migliore alleata....
+Vieni, vieni qui, povero angelo!...
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(va a inginocchiarsi accanto a lei, infantilmente.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(carezzandola)* Non temere.... Il nostro sogno,
+ne ho fede, si realizzerà. Vedrai. Già, Mario, a poco
+a poco, è diventato un altro.... Da quando ritornò
+da quel piccolo viaggio misterioso — ti ricordi? — l'ho
+visto sempre più dolce, sempre più sereno,
+e da qualche mese — oh! io lo comprendo meglio
+che non possa comprendersi egli stesso — da
+qualche mese non pensa che a te. E come ci pensa!
+Ma nè io nè tu gli additeremo la via della felicità.
+Egli la troverà da sè. La sua natura va
+verso il bene soltanto se è libera d'andare dove
+vuole. Nessuna esortazione, nessun consiglio. Sul
+suo spirito non si può influire che tacendo e aspettando.
+Io non gli ho mai espressi i miei desiderii,
+egli ha finito sempre col soddisfarli.
+
+[pg!261]
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(dolcemente)* Io v'imiterò, signora.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+E sarà egli stesso che verrà a te; sarà egli stesso
+che si sentirà attratto da ciò che è ancora il
+meglio che si possa fare su questo mondo: vivere
+onestamente con la persona che si ama e da cui
+si è amati. Perchè... tu l'ami molto, non è vero?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(con grande soavità)* Tanto!... Tanto!
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(abbracciandola e baciandola con affettuosità profonda)*
+Che tu sii benedetta, figlia mia! *(Restano
+abbracciate, commosse. Indi la signora Renzi abbandona,
+lentamente, il capo sulla spalliera.)*
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(alzandosi e rimettendosi dall'emozione)* Siete un
+poco stanca?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(sbadigliando)* Non ancora. Adesso che ho fatta la
+pace con la buona salute, non mi stanco più così
+presto. Ringiovanisco, sai.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Allora, volete che vi legga una pagina del vostro
+libro favorito?
+
+[pg!262]
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+No, Beatrice. Ho la mente piena di cose belle.
+Per questa sera non voglio metterci dentro più
+nulla: sto tanto bene così! Piuttosto, *(sbadigliando)*
+bella mia, mi fai il piacere di rassettare un poco
+lassù. *(Indica la tavola — Il tappeto è sconvolto e
+ingombro di pedine, di mussola, di tela a brandelli,
+di giornali gualciti e del lavoro di Beatrice.)*
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Subito. *(Va a rassettare.)* Uh! che disordine!
+Ma qui si vede che la maggior colpevole sono
+stata io. Che cenciaiola! *(Ripone nella cesta i brandelli
+e nei cassettini della scacchiera le pedine.)*
+Rimettiamo nel quartiere i soldati con cui il nonno
+deve vincere le battaglie.... Suona la ritirata:
+a letto, a letto. Bravi, così! — Ed ecco i giornali
+del signor Mario. *(Li piega.)* Quello lì che contiene
+la strana storiella... lo ha conservato lui. *(Ricordando)*
+Povera ragazza: chissà che cosa le era accaduto!
+Il signor Mario ha detto che non valeva
+la pena di saperlo.... Pure, sarei curiosa.... Signora
+Renzi, ci avete capito niente, voi?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(a poco a poco si è addormentata.)*
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(Pausa)* Dorme. *(Ripiglia un giornale e lo appiccica
+con uno spillo al paralume, affinchè la luce
+non importuni la dormiente. — Si ode picchiare.)*
+Eccolo. *(Apre.)*
+
+[pg!263]
+
+
+SCENA IV.
+---------
+
+CLELIA, BEATRICE, *Signora* RENZI.
+``````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(indossa una povera veste grigia, e ha il capo
+avvolto in uno scialle. Resta di là dalla soglia.
+Ha la voce umile e tremante.)* Vorrei parlare alla
+signora Renzi.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+È lì che dorme. Adesso è tardi. Non potrebbe
+favorire domani?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(guardando Beatrice con intensità intuitiva)* Domani?
+Si, ma alla stessa ora, perchè, veda, signorina,
+ho un bambino lassù, alla locanda, e non posso
+allontanarmene che quando una buona donna — un'operaia
+che è occupata tutto il giorno — viene
+a sostituirmi presso la culla. Se non le dispiace,
+aspetterò che la signora Renzi si svegli!
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(fa un gesto di non sincera condiscendenza.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si avanza un poco.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(in sogno, mormora:)* Beatrice....
+
+[pg!264]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con mitezza estrema)* Mi pare che si stia svegliando....
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(guardando la signora Renzi)* No. Credo che parli
+in sogno.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(mormora ancora:)* Mario.... Figli miei....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(trasalisce.)*
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Sì, parla in sogno....
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(come in un sussulto di gioia, si sveglia)* Beatrice...
+dove sei?
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Eccomi....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si ritrae.)*
+
+[pg!265]
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+C'è qui una donna che desidera parlarvi.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Dov'è? *(Voltandosi e, vedendo Clelia, ne ha un'impressione
+quasi di paura)* Che!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sempre mite)* Mi conoscete?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Vi conosco. *(Si alza.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Supponevo, pur troppo, d'essere da voi conosciuta
+di nome, ma....
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(di scatto)* Oh! come credevate che io avessi potuto
+non vedervi mai? E poi.... *(Non continua, per
+la presenza di Beatrice, di cui si preoccupa.)* Beatrice,
+non trattenerti più a lungo.... Vattene dal
+nonno.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(piano alla Signora)* Voi siete così turbata....
+
+[pg!266]
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+T'inganni....
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+Ma questa donna?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+È... la figliuola d'un amico del mio povero marito....
+M'avevano detto che era morta... ed è naturale
+che il vederla m'abbia un po' scossa.... Vattene,
+dunque, senza preoccupazione; vattene.
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(mal volentieri)* Vado.... Buona notte. *(Allontanandosi
+saluta col capo Clelia. — Si guardano
+scambievolmente con penosa curiosità. — Beatrice esce.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(segue Beatrice sino alla soglia; poi, quando sta
+per chiudere la porta, si ferma, udendo che Mario
+sale le scale e che zufola.)*
+
+
+SCENA V.
+--------
+
+MARIO, CLELIA, *Signora* RENZI.
+```````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(dalle scale, gaio)* Signorina Beatrice, salutiamoci,
+almeno.
+
+*(La signora Renzi e Clelia si scuotono e si scambiano
+un'occhiata.)*
+
+[pg!267]
+
+.. class:: center
+
+| :small-caps:`Beatrice`
+
+*(la cui voce lontana si sente appena)* Ero distratta,
+signor Mario. Vi pare....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(le sue parole si odono più da vicino)* Va bene,
+vi perdoniamo.... Ma, cantatina allegra! *(Ridendo)*
+Ah! ah! ah! *(Entra. Vedendo Clelia, ne ha come
+un senso di meraviglia e di terrore)* Voi! *(Indi, senza
+troppa durezza)* Che fate qui? Che volete in casa
+di mia madre?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(a un tempo timida, supplichevole e altera)* Lo
+so che una par mia non ha il diritto di metterci
+il piede; ma io ci sono entrata come si entra in
+chiesa — devotamente — per implorare una grazia....
+Io speravo, e spero, di ottenerla da lei, da vostra
+madre, questa grazia.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(offesa)* Da me quale grazia volete ottenere?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(senza avere il coraggio di dir subito la ragione
+della sua visita)*.... Che rendiate meno aspro verso
+di me... l'animo del vostro Mario.
+
+[pg!268]
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(le volta le spalle, avviandosi — quasi fuggendo — verso
+la porta a destra.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Restate, signora, ve ne scongiuro: io ho bisogno
+del vostro appoggio, e, per quanto ciò vi possa
+sembrare strano, io sento che me lo concederete.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(meravigliata)* Il mio appoggio?!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma voi non sapete ancora che cosa debbo dire
+a vostro figlio.... Restate, signora, ascoltatemi.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+No, no, no....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(severo)* Lasciate stare mia madre. Vi ascolterò
+io.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(abbassa gli occhi mortificata.)*
+
+[pg!269]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(con maggiore gentilezza)* Vi ascolterò io.
+
+.. class:: center
+
+| :scene:`(Silenzio solenne, grave, agghiacciante.)`
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(rivolge a Mario un lungo sguardo in cui è
+un'interrogazione e un ammonimento, ed esce a
+destra.)*
+
+
+SCENA VI.
+---------
+
+CLELIA *e* MARIO.
+`````````````````
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(animata da un repentino coraggio, come se a un
+tratto avesse la coscienza d'un diritto)* Ebbene, mi
+ascolterai tu! Avevo osato di venire in casa di
+tua madre e avevo chiesto di parlare a lei perchè,
+nonostante l'orrore che... in altri tempi... ho
+potuto destare in quella onesta signora, io adesso
+dovevo contare più sulla bontà del cuor suo che
+sulla sprezzante indifferenza del tuo. Sono dieci
+mesi, Mario, che ti chiamo, che ti cerco inutilmente;
+sono dieci lunghi terribili mesi che ti nascondi
+a me, che mi fuggi come se io fossi una
+femmina infame!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(freddo, ma in tono amichevole)* Una volta che
+io avevo deciso di finirla, sarebbe stata un'imprudenza
+[pg!270]
+il rivederti. Quella sera,... la sera della tua
+festa... uscendo dalla casa dove quel Carsanti era
+il tuo signore, giurai di non entrarvi mai più. Il
+giorno dopo, potetti raggranellare un po' di denaro,
+affidai mia madre... a una giovinetta, a una
+nostra vicina, e partii, partii per non aver sùbito
+la tentazione di ritornare a te. Più tardi, quando
+fui obbligato a riunirmi con mia madre, resistetti
+alla tentazione. Me ne tormentai, non lo nego, ma
+vinsi, e mantenni il giuramento pel bene di tutti.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Pel mio bene anche!?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sì. Ti lasciavo finalmente libera... libera di disporre,
+come meglio ti piacesse, della tua vita.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(scrollando il capo e sforzandosi di serbarsi
+tranquilla)* Ma... tu sapevi che m'ero fatta scacciare
+da quell'uomo proprio la sera in cui ti vidi
+per l'ultima volta, senza sospettare menomamente
+il tuo abbandono. Di': tu lo sapevi:... io te l'avevo
+scritto.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(calmo)* Me l'avevi scritto: lo sapevo.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E tu sapevi pure la ragione... *la ragione* per
+cui m'ero fatta scacciare. Io te l'avevo scritta.
+
+[pg!271]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(paziente)* Me l'avevi scritta; ma io non t'avevo
+creduta.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Avrei dovuto, dunque, quella sera stessa, dopo
+la scena disgustevole, piombarti addosso come se
+avessi preteso qualche cosa da te, come se avessi
+voluto vantarmi del mio eroismo, come se avessi
+voluto chiedertene il premio?... È questo, forse,
+che avrei dovuto fare?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sarebbe stato inutile: non ti avrei creduta.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(rabbrividendo)* Mario!... io ti comprendo: tu rispondi
+così per prepararmi a uno scetticismo anche
+più crudele. Tu hai già capito, non è vero?, perchè
+io abbia risoluto di bussare alla tua porta; tu hai
+già capito che io non sono tanto sciocca da voler
+tentare la riconquista del tuo cuore; Mario *(afferrandogli
+le mani)* tu lo hai già capito: io vengo
+a parlarti soltanto di nostro figlio!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(stringendosi nelle spalle, crudelmente)* Nostro!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con uno sforzo d'amarezza)* Ah! l'avevo preveduto!
+
+[pg!272]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(Pausa. Con sforzo di pazienza)* Insomma, Clelia,
+cerchiamo di abbreviare questo colloquio increscioso.
+Riassumi le tue idee, e dimmi con calma: da
+me tu che pretendi?
+
+*(Il dialogo diventa man mano concitato, febbrile,
+incalzante.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Nulla pretendo. Io desidero, innanzi tutto, di
+convincerti che il mio bambino è *tuo*.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Non puoi convincermene.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma perchè non posso? Perchè? Pensaci bene,
+Mario: la nostra relazione non è rotta che da dieci
+mesi, e precisamente domani saranno passati due
+mesi — m'intendi? — da che il bambino m'è nato.
+Se anche tu, cinicamente, volessi fingere d'ignorare,
+se anche ignorassi davvero la miseria squallida
+che da quando mi lasciasti io ho preferito a
+ogni risorsa losca, a ogni mezzo consigliatomi
+dalla mia trista esperienza, a ogni utile transazione,
+non potresti negare ciò che le date, innegabili,
+ti accertano.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Le date sono contro di te.
+
+[pg!273]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Come!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sino a dieci mesi fa, tu eri amante mia e di
+Carsanti.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Amante di lui, no!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Evvia!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Tu ricordi in che modo esclusivo io ti amavo.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Chiacchiere!...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Tu ricordi la singolarità della mia esistenza....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Chiacchiere che hanno fatto il loro tempo!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Eppure, ti è noto che se non avessi fidato nella
+rassegnazione di quell'uomo strano e vanitoso, io
+[pg!274]
+non mi sarei mai legata a lui dopo di averti conosciuto.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+A me è noto solamente che a *lui* ti legasti.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma con quali speranze?!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Speranze inverosimili!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+È vero....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Ne convieni.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ne convengo perchè, difatti, ebbi a persuadermi
+che m'ero illusa....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+E allora, che mi vai affastellando? Questa tale
+illusione svanì proprio quando diventasti veramente
+sua.
+
+[pg!275]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ma appunto per non diventare veramente sua io
+mi feci scacciare da lui, di notte, come una serva
+ladra!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Non ti ho creduta quando me l'hai scritto, non
+ti credo ora, non ti crederò mai!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con impeto di disperazione)* Io, dunque, debbo
+rinunziare al sogno di ridare il padre al mio bambino,
+debbo rinunziare al sogno di assicurargli
+una guida, un avvenire, un nome?... Dio, Dio mio,
+aiutatemi voi, aiutatemi voi! *(Pausa. Poi, prendendogli
+dolcemente le braccia, le mani, circondandolo
+amorosamente)* Mario, ho tanto sofferto, e ho
+sofferto in pace, per mettere al mondo quel piccino
+che, pensavo, sarebbe stata la continuazione della
+parte migliore della mia vita. Ero sola, ero malata,
+accettavo il soccorso offertomi da qualcuna delle
+mie amiche d'una volta — domandane al dottor Fonseca — e
+ne arrossivo, mi umiliavo, sì, mi umiliavo;
+ma da una intima soddisfazione ero animata
+e confortata... perchè?... perchè sentivo nelle
+viscere il frutto, il tesoro del nostro amore!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(svincolandosi senza violenza)* Clelia....
+
+[pg!276]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+No, non aver paura.... Non saprei più sedurti...
+Sono diventata un cencio.... E non attraverso la
+mia persona ammiserita tu devi beneficare quel
+poverino.... No... la mia persona esiste già così
+poco e non vale più niente e non spera e non esige
+niente per sè, ed è disposta a ogni sacrifizio
+purchè *egli* sia salvato e salvato da te.
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(dibattendosi tra due sentimenti opposti)* Clelia,
+non parlarmi con tanta dolcezza....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E tu non forzare al cinismo la tua natura nobile....
+Essa, me ne accorgo, non mi accusa di
+menzogna.... Mario, Mario mio, lasciati commuovere...
+cedi alla tua indole... liberami da queste
+pene atroci... dimmi che salverai il mio angelo,
+che lo accoglierai, che lo assisterai, che gli vorrai
+bene... che gli sarai padre. *(Lo guarda ansiosamente
+e angosciosamente negli occhi.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(che s'era commosso, torna ora ad avere sul viso
+l'espressione del fastidio e della rigidezza crudele.)*
+No, no, non voglio, non posso!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(se ne sente schiacciata.)* Ah!
+
+[pg!277]
+
+
+SCENA VII.
+----------
+
+*Signora* RENZI, MARIO *e* CLELIA.
+``````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(alle ultime parole di Mario comparisce, gravemente,
+nel vano della porta)* Mario!
+
+.. class:: center
+
+| :small-caps:`Mario e Clelia`
+
+.. class:: center
+
+*(simultaneamente)*
+
+Mamma....
+
+Signora....
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Io non so essere giudice fra voi due: sono una
+borghesuccia abituata alla vita casalinga; ma, fra
+tante cose che avete dette, una sola cosa m'è sembrata
+semplice ed importante: — c'è un innocente
+da salvare. *(A Mario)* Questa donna te ne attribuisce
+la paternità, e tu non hai fede nella parola
+di lei. Hai torto? hai ragione? Non monta. Ma io
+domando a te e ti prego di rispondermi in coscienza:
+sei tu poi sicuro — bada — sei proprio sicuro
+di *non essere* il padre di quel bambino?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(tace.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Rispondimi.
+
+[pg!278]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+... Non ne sono sicuro.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Come vedi, la quistione, per un uomo onesto, è
+risoluta. Tu, uomo onesto, sai che, soprattutto,
+non devi abbandonare una creaturina che *forse* è
+sangue tuo. Se quel bambino non è tuo figlio, tanto,
+avrai compiuta un'azione pietosa; se è davvero
+tuo figlio, avrai semplicemente adempito un dovere.
+C'è il dubbio? E il dubbio basta a crearti un
+obbligo sacro.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Voi siete giusta, signora.... Avevo ragione di
+contare sul vostro appoggio.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Sul mio appoggio, contateci; ma io conto sui
+vostri sacrifizii....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Quali?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Sui sacrifizii che voi stessa avete offerti.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Mi spaventate!...
+
+[pg!279]
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+E che? Sperate ancora un legame tra voi e
+Mario?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(subito)* No!
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Ebbene, se volete provvedere, veramente, sicuramente,
+all'avvenire del vostro figliuolo, voi dovete
+sacrificargli *tutto*.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(invasa dal terrore)* *Tutto*... che cosa?
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+.... Povera donna... i vostri diritti di madre.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con un grido di violenta ribellione)* Impossibile!
+*(Pausa. Poi, timidamente)* Mi chiedete troppo, signora.
+Siete madre anche voi, è vero; sapete la
+prepotenza cieca di quell'egoismo sublime che è
+l'affetto materno, ma è naturale che non abbiate
+un'idea esatta di ciò che mi chiedete. Una santa,
+una virtuosa come voi, non conosce i misteri di
+queste esistenze per cui la virtù è una cosa molto
+confusa: *(eccitandosi)* ecco, ecco perchè voi non
+[pg!280]
+intendete che se in noialtre spostate l'affetto materno
+nasce, esso qualche volta può essere più tenace,
+più geloso, più prepotente, più cupido che
+nelle donne educate all'onestà. *Che è* mio figlio
+per me? Non so esprimervelo... non so esprimervelo
+con le parole. Certo, dai primi momenti della
+maternità, sentii che essa mi assorbiva tutta; e da
+quando *egli* è nato io non mi sono più accorta di
+esistere che... che per le sensazioni nuove, prodotte
+in me da quel piccolo essere. E mi proponete
+di vivere estranea a lui? Ve l'ho detto: è impossibile!...
+Ogni altra proposta, io l'accetterò; ogni
+altro sacrifizio mi sembrerà lieve.... Io non aspiro
+alla riabilitazione; io non aspiro neppure al rispetto
+compassionevole; io voglio soffrire la fame,
+io voglio piegarmi alle più umili fatiche, io voglio
+essere peggio d'una schiava: ma distaccarmi, per
+sempre, completamente da mio figlio, lasciarmi
+estirpare il cuore vivo vivo, rinunziare ai miei diritti
+di madre, no! no! è impossibile, è impossibile!...
+*(È accasciata, esausta di forze.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+E non v'accorgete....
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(interrompendola)* Via, mamma, per ora tronchiamo....
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(severa)* No! Voglio andare sino in fondo una
+volta per sempre. *(A Clelia)* Non v'accorgete, povera
+[pg!281]
+donna *(a Mario, che vorrebbe impedirle di
+continuare)* — lasciami dire —... non v'accorgete
+che nei vostri proponimenti c'è una grave contraddizione?
+Voi volete che il vostro figliuolo diventi
+un uomo utile, un uomo d'onore, un uomo felice...
+e gli preparate lo spettacolo straziante e disonorante
+di una madre condannata dalle stesse leggi
+per le quali ora combattete. E che cosa dovrà dirgli
+di voi suo padre? E che gli direte voi stessa?...
+E quando questo figliuolo sarà un fanciullo, come
+affronterete la sua curiosità? E quando sarà un
+giovane forte ed altero, come affronterete il suo
+orgoglio? E quando avrà una coscienza per giudicare...
+come, come affronterete voi il suo giudizio?
+E quali gioie, quali conforti gli saranno serbati
+fra un padre e una madre che si disputano il suo
+cuore e che non hanno di comune nè la casa, nè
+il nome, nè l'onorabilità? Il suo animo, siatene
+certa, si alimenterà di rancore, e verrà un giorno
+in cui egli potrà rimproverarvi persino *(solenne e
+insinuante)* di averlo messo al mondo....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(disfatta, senza fiato)* Basta... basta.... Lo so che
+avete ragione.... Io mi sono ribellata, ma alla mia
+ribellione, ve ne prego, non ci credete.... Adesso
+non ho più la forza di pensare... e di rassicurarvi....
+Ma, qui, qui, nel cervello, un solo, un solo
+pensiero resta certamente limpido, fermo, immutabile:
+salvarlo, salvarlo a qualunque costo! Io,
+io ho la responsabilità della sua vita... perchè
+avrei potuto *(convulsa, lagrimando)* avrei potuto...
+come fanno tante... anche talune di quelle che si
+lasciano credere oneste... sì, sì, avrei potuto annientare,
+[pg!282]
+distruggere la maternità nel suo primo
+momento; e non lo feci. Il delitto mostruoso sarebbe
+stato per me un dovere.... Non volli, non
+volli..., chi sa, forse non per virtù... ma per egoismo....
+*(Si sorregge a un tavolino.)* Ed ora... non
+parlate più... Sono persuasa... In fondo n'ero convinta
+anche prima che parlaste.... Mio figlio non
+deve conoscermi?... E non mi conoscerà!... Me ne
+andrò lontano assai....
+
+.. class:: center
+
+| :small-caps:`Signora Renzi e Mario`
+
+*(la soccorrono.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+... lontano assai.... Oh! non dubitate.... Lo farò....
+Lo farò....
+
+.. vspace:: 2
+
+.. class:: center
+
+| :scene:`(Sipario.)`
+
+[pg!283]
+
+
+
+
+ATTO QUARTO.
+============
+
+
+*Una squallida stanza di locanduccia. Un letto
+disadorno, basso, con accanto una culla napoletana,
+vuota. Un baule ai piedi del letto. Una tavola
+con su l'occorrente per scrivere. Poche altre misere
+suppellettili, tra cui un cassettone e un lavamani.
+Sopra il cassettone, un* biberon, *qualche fiala,
+uno specchietto, dei pettini. Sparsi qua e là, pannolini
+per bambini. Unica porta in fondo, ma non
+proprio nel mezzo. La porta s'apre in un corridoio
+angusto. Una finestra*.
+
+
+SCENA I.
+--------
+
+CLELIA, *Signora* RENZI, CARMELA, ANGIOLINA, FONSECA.
+`````````````````````````````````````````````````````
+
+*(Come s'alza la tela, si vede nel corridoio, presso
+la porta aperta, un gruppo così formato:* :small-caps:`Carmela`,
+*con in braccio un bambino avvoltolato negli scialli;*
+:small-caps:`Clelia`, *che, pallida e desolata, si aggrappa a* :small-caps:`Carmela`
+*e al bambino;*
+:small-caps:`Angiolina` *che cerca di staccarla
+da lui; la signora* :small-caps:`Renzi` *e il dottor*
+:small-caps:`Fonseca`
+*che la circondano premurosamente.)*
+
+[pg!284]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(con voce rotta, stanca e singhiozzante)* Figlio,
+figlio mio....
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Coraggio... coraggio!... *(È assai commossa anche
+lei e parla con dolcezza materna.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(spasimando)* Sì... mia buona signora, ne avrò,
+*(bacia e ribacia il bambino)* ... ne avrò.... Non vedete
+che sono forte?
+
+.. class:: center
+
+| :small-caps:`Carmela`
+
+Facciamo piano.... Meglio profittare adesso che
+il bambino dorme.
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+Coraggio... via... coraggio!...
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Aspettate... aspettate... un altro poco....
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ma così non ve ne staccherete mai!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Aspettate... aspettate... per pietà.... Pensate che
+non lo bacerò mai più..., mai, mai più! *(Continua
+a baciarlo.)*
+
+[pg!285]
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Ma sì, ma sì, lasciate che si sfoghi!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Addio, figlio mio... Addio, angioletto mio... Addio...
+addio.... E a voi, signora, grazie. *(Le vorrebbe
+baciar la mano.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(invece si stringe Clelia al petto)* Qui... qui....
+Voi non dovete ringraziarmi; voi.... *(La parola
+le si rompe nella gola stretta dall'emozione.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Grazie... grazie....
+
+*(Mentre la signora Renzi abbraccia e bacia Clelia,
+Carmela, col bambino, si allontana e sparisce.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(si slancia per seguirlo.)*
+
+.. class:: center
+
+| :small-caps:`Fonseca e Angiolina`
+
+*(la trattengono.)*
+
+.. class:: center
+
+| :small-caps:`Signora Renzi`
+
+*(con uno sforzo, esce.)*
+
+[pg!286]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(dà un grido disperato.)* *(Cade fra le braccia di
+Fonseca e di Angiolina, che la sostengono e l'adagiano
+sopra una sedia; indi, a poco a poco, rinviene.)*
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(dopo una lunga pausa, a Clelia)* Sei stata un'eroina.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(appena col fiato)* Vedrai....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Ho visto già abbastanza.... Nessuna madre, credi
+a me, seppe mai essere più nobilmente martire
+dell'amore materno.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Era necessario....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+E sì.... Sei malata, non avevi neppure come nutrirlo.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E se anche lo avessi potuto nutrire!...
+
+[pg!287]
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Già, già: intendo.... Almeno ora sai che sarà
+allevato in una famiglia per bene....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E Mario legittimerà il suo figliuolo.... La signora
+Renzi me l'ha promesso.... E anche io ho promesso
+qualche cosa. Dovrò... partire per sempre. E partirò.
+Egli non incontrerà mai sua madre. È tanto
+giusto che debba avvenire così! *(Si abbatte, resta
+come impietrita, senza sguardo.)*
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(chiamandola)* Clelia... Clelia....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(non l'ode.)*
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(mormorando:)* Che depressione di nervi!
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+*(tirando a sè per il soprabito il dottore)* Dottore...
+«Partire» è una bella parola.... Ma come si
+fa a partire o a restare? Qui c'è bisogno di soldi....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(accingendosi a cavare di tasca il portamonete)*
+Per ora, io posso....
+
+[pg!288]
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ma che!... Ce ne vogliono molti. Ci ho io la persona
+adatta.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Non c'è che dire, sei sempre la stessa.... *(Si
+mette la mano sulla bocca.)*
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Ohe, non m'offendete!
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Va' là che non t'offendo. Si sa, io faccio il medico
+e tu fai.... Basta, chi sarebbe questa persona?
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+E come? Non capite? Sempre lui, il signor Carsanti.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Ah?... Evviva la costanza!
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Gli ho già parlato.... Mi aspetta nel caffè all'angolo
+della via.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Sei una gran donna!
+
+[pg!289]
+
+.. class:: center
+
+| :small-caps:`Angiolina`
+
+Lo so.... Arrivederci.... Io vado.... Datele un po'
+di forza.... Ih! che razza di medico siete! *(Via
+affaccendata.)*
+
+
+SCENA II
+--------
+
+CLELIA *e* FONSECA.
+```````````````````
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(come se si svegliasse)* Chi è là?
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Son io.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ah!... *(Pausa)* Dottore mio, se ti chiedessi una
+grazia?
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Disponi di me, liberamente.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(parla come inebetita)* Ebbene, senza perdere
+tempo, devi cercare Mario e rimettergli una lettera....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Per ricominciare da capo?!
+
+[pg!290]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+No, non per ricominciare da capo. Tutt'altro!
+Ma prima di partire, voglio vederlo.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+In ogni caso, non partirai certamente oggi....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Sì, oggi.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Se non hai neppure un soldo!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(sorridendo lugubremente)* Chi te l'ha detto?
+*(Pausa)* Mi farai questo piacere?
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Ma egli non verrà.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Verrà! Scriverò una parola che lo farà venire.
+Acconsenti? Di', di', acconsenti?
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(acconsentendo volentieri)* E va bene!
+
+[pg!291]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ah! *(Si leva, sfinita, va sino alla tavola, e, poi,
+mentre scrive in fretta poche parole, parla eccitandosi
+lievemente:)* Sarà facile trovarlo a casa....
+Qui scrivo l'indirizzo....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Conosco....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+È vicinissimo.... Salendo le scale accanto alla
+chiesa, arriverai in due minuti....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Conosco....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+S'intende che consegnerai la lettera nelle sue
+mani e che nessuno si deve accorgere di nulla.
+*(Gli dà la lettera.)*
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Sta bene. *(Scherzando un po', con tristezza)* A
+un bell'ufficio adibisci il tuo medico....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+I medici non debbono fare che del bene, e tu
+me ne farai.
+
+[pg!292]
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(ricordando la decisione di Angiolina, s'imbarazza.)*
+Senti... se quando viene Mario, qui c'è
+qualcuno....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Chi vuoi che ci sia?...
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Non so.... Voglio dire che sarà meglio evitare
+che qualcuno lo veda con te in questa camera di
+locanda....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Nessuno lo vedrà...
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Facciamo così.... Se ricevi, supponiamo, qualche
+visita —... sia anche quella strega di donn'Angiolina — tu
+baderai a mettere un panno al balcone
+affinchè egli aspetti che tu sii sola.... Intanto, io
+stesso lo avvertirò a voce.... Restiamo intesi?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Restiamo intesi, ma non ce ne sarà bisogno.
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(andandosene)* Arrivederci presto.
+
+[pg!293]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(malcontenta)* Presto? *(Con fine celia malinconica)*
+Ma... i tuoi clienti stanno tutti benissimo?...
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Ho capito!... Ritarderò un poco.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Non mi dai la mano?
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Sì....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(stringendogli la mano prolungatamente)* Stringi
+forte, forte....
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+Sì!... *(Preso da un subitaneo timor panico)* È
+strano: mi hai messo un brivido....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Vattene ora.... Corri. *(Fonseca esce. Dopo un
+istante di concentrazione, ella, pallidissima, fragile,
+lenta, solenne, va fino al baule, e, con le spalle rivolte
+alla porta, ginocchioni, fruga in esso. Trova
+una boccettina e mormora:)* Eccola! *(La guarda con
+gli occhi fissi e spalancati. La mano che stringe la
+boccettina è tremante. Ella la contempla con evidente
+paura. Poi, diventa estatica, invasa dal pensiero
+della morte e del riposo.)*
+
+[pg!294]
+
+.. class:: center
+
+| :scene:`(Si picchia alla porta.)`
+
+
+SCENA III.
+----------
+
+CLELIA, CARSANTI.
+`````````````````
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(con voce indistinta, di dentro)* Permesso?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(ne ha come un urto alle spalle. Senza alzarsi,
+in un istante di volontà suprema, beve. Il suo viso
+esprime la sensazione del disgusto e del dolore.
+Pare che qualche cosa di gelidamente viscido le passi
+per le reni. Ella nasconde in tasca la boccettina.
+Tossisce lievemente. Indi, con voce tranquilla, dice:)*
+Avanti.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(entra.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(alzandosi e voltandosi)* Voi!
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Io.
+
+[pg!295]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Ah!... comprendo. Come al solito. Angiolina vi
+ha chiamato e voi venite... a soccorrermi. Ma c'è
+un equivoco, vedete: questa volta, non ho bisogno
+di nulla e di nessuno. *(Comincia a soffrire nello
+stomaco, e dissimula.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Le sventure non vi hanno mutata! Ma la vostra
+alterigia non mi ha mai fatto indietreggiare. Voi
+pensate, lo so, che io sono un uomo volgare. Orbene,
+sia! Sono appunto abituato a combattere con
+la volgarità dei miei mezzi contro l'alterigia altrui.
+Eppure, non vengo qui per combattere; vengo soltanto
+a ricordarvi che siete ancora tanto giovane e
+tanto bella....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(interrompendo)* In altri termini, voi venite, tranquillamente,
+a ricordarmi che io sono ancora commerciabile.
+Vi ringrazio, perchè anche voi mi dimostrate
+così l'urgenza di risolvere un gran problema:
+l'avvenire di mio figlio....
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(osservando le contrazioni del suo volto)* Ma voi
+soffrite....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+E io l'ho già risoluto....
+
+[pg!296]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(ansioso)* Come?
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(cava di tasca la boccettina: gliela mostra; si abbandona
+sulla tavola, piegandovi la testa appesantita.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(afferra la boccettina, la guarda, e, inorridito,
+esclama:)* Avvelenata! *(Confuso, convulso, corre alla
+porta, gridando:)* Ehi! qualcuno! qualcuno! Albergatore!
+Soccorso!... Soccorso!...
+
+
+SCENA IV.
+---------
+
+ALBERGATORE, CLELIA, CARSANTI.
+``````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Albergatore`
+
+*(dal corridoio, senza mostrarsi)* Che è questo
+chiasso?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Un medico! Presto: un medico!
+
+.. class:: center
+
+| :small-caps:`Albergatore`
+
+*(comparendo nel corridoio)* Ma, insomma, che è
+accaduto?
+
+[pg!297]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Si è avvelenata... Non c'è tempo da perdere!...
+Custodite questa camera!... Non fate entrare nessuno!...
+Andrò io stesso!...
+
+.. class:: center
+
+| :small-caps:`Albergatore`
+
+*(trattenendolo con prudenza diffidente)* Perdonate,
+signore, voi non vi muoverete di qua. Andrò io,
+andrò io... Provvederò io.... *(Via.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+Ma sbrigatevi, per pietà, sbrigatevi.... *(Torna
+subito a lei)* Volete che v'adagi sul letto? *(Sta per
+darle aiuto.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(supplichevole, ma pur rivelando l'antico ribrezzo,
+come alla fine del primo atto, gli dice:)* No, non mi
+toccate!... Ci vado da me. *(Faticosamente, si accosta
+al letto, e vi si distende quasi di traverso, presa
+da vertigine.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(rabbrividendo, mormora amaramente:)* Sempre
+la stessa... sino all'ultimo!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(agitando le braccia)* Questa culla... questa culla...
+Toglietemi dinanzi questa culla vuota....
+
+[pg!298]
+
+
+SCENA V.
+--------
+
+CLELIA, MARIO, FONSECA, CARSANTI.
+`````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Una voce`
+
+Non si può entrare, vi dico!
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(di dentro)* Siete matti!
+
+.. class:: center
+
+| :small-caps:`Un'altra voce`
+
+Basta, signore! Indietro!
+
+.. class:: center
+
+| :scene:`(Si odono altre voci confuse.)`
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(ancora di dentro)* Ma io sono il medico! Lasciatemi
+passare!
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(prima di comparire)* Clelia!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(scotendosi)* Ah!... è lui! *(Vorrebbe gridare per
+chiamarlo, e non può.)*
+
+.. class:: center
+
+| :small-caps:`Mario e Fonseca`
+
+*(si slanciano nella camera, correndo verso il letto.)*
+
+[pg!299]
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(si ritrae in disparte, sinistramente.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(aggrappandosi a Mario con uno sforzo disperato)*
+Mario! Mario!
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(la soccorre, le tasta i polsi, la fronte, lo stomaco.)*
+
+*(Carsanti e Mario si scambiano un'occhiata di
+odio.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(soffocando)* Ho un fuoco... un fuoco qui dentro...
+*(Si tocca la gola.)* Avrei dovuto scegliere un'altra
+morte...
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(raccapricciato)* È terribile!
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(cercando attorno urgentemente)* Con che si è avvelenata?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(affrettandosi a consegnargli la boccettina del veleno)*
+Ecco.
+
+[pg!300]
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(la guarda e la odora appena)* Perdio!... Nicotina!...
+Non arriveremo in tempo! *(Esce a precipizio.)*
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(resta lontano dal letto, guardando sottocchi.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(le convulsioni interiori e gli stringimenti della
+gola le spezzano la voce e le parole. Il torpore aumenta.
+Ella fa degli sforzi per udire e parlare.)*
+L'hai visto l'angioletto... nostro?
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+Sì, l'ho visto.
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Com'è bello!... Non dubiti più, ora?...
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+No.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(ha preso il cappello, e, rasentando il muro, camminando
+piano piano, come un'ombra, sta per dileguarsi.)*
+
+[pg!301]
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(chiamandolo sommessamente con un accento amicale)*
+Carsanti, qua.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(le si avvicina un poco.)*
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+Carsanti, in questo momento così grave, dite:
+sono mai stata veramente.... la vostra amante?
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(con un tono di vergogna, di dolore e di rispetto)*
+Mai!
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+*(abbozzando un lugubre sorriso di trionfo)* Grazie.
+*(Pausa. — Poi, quasi affettuosamente)* Addio, Carsanti.
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(in uno strano misto di commozione e di avvilimento,
+sentendo di essere un estraneo, si allontanerà,
+mentre Mario e Clelia si scambieranno le
+ultime parole. Ma, giunto all'uscio e, apertolo, si
+fermerà come trattenuto da una forza magnetica e
+resterà presso lo stipite, fissandoli di sbieco.)*
+
+[pg!302]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(rompe in singhiozzi)* Ah! non morire... non morire,
+Clelia mia....
+
+.. class:: center
+
+| :small-caps:`Clelia`
+
+«Tua» hai detto?... Non è vero... Non m'hai
+voluta... *(Parla in una specie di dormiveglia angoscioso,
+stentatamente, come se avesse la lingua
+paralizzata. Le sue parole sono interrotte da lievi
+singhiozzi spasmodici.)* E io me ne parto come avevo
+promesso.... Egli, quando sarà grande,... non dovrà
+arrossire di... sua... madre... Soffoco.... *(Le si
+offusca la vista, poi il bulbo degli occhi le biancheggia
+nelle orbite. — Lunga pausa)* E tu sarai onesto,
+felice... con *lei*.... Sposala.... Dille... che... *(le manca
+la voce)*... che le raccomando... nostro... *(Dopo un
+breve rantolo, s'irrigidisce, fra le braccia di Mario,
+morta.)*
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(la contempla atterrito, senza parlare.)*
+
+
+SCENA ULTIMA.
+-------------
+
+FONSECA, MARIO, CARSANTI.
+`````````````````````````
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(di dentro)* Largo! Largo! *(Entra con in mano
+qualche bottiglia e si precipita verso il letto.)*
+
+*(Lo seguono e si affollano subito nel corridoio e
+sulla soglia qualche facchino, l'albergatore, due
+guardie e alcuni curiosi, urtandosi tra loro, mormorando,
+cianciando.)*
+
+[pg!303]
+
+.. class:: center
+
+| :small-caps:`Mario`
+
+*(disperatamente, a Fonseca)* Inutile!...
+
+.. class:: center
+
+| :small-caps:`Carsanti`
+
+*(come uno spettro, si avanza un poco per vederla.)*
+
+.. class:: center
+
+| :small-caps:`Fonseca`
+
+*(simultaneamente, in fretta, va a chiudere l'uscio
+con violenza.)*
+
+.. vspace:: 2
+
+.. class:: center
+
+| :scene:`(Sipario.)`
+
+.. vspace:: 2
+
+.. class:: center large
+
+FINE DEL DRAMMA.
+
+.. footnotes:: NOTA
+   :class: small
+
+|
+|
+|
+|
+|
+
+.. _pg_end_line:
+
+\*\*\* END OF THIS PROJECT GUTENBERG EBOOK UNA DONNA \*\*\*
+
+.. backmatter::
+
+.. toc-entry::
+   :depth: 0
+
+.. _pg-footer:
+
+.. class:: pgfooter language-en
+
+A Word from Project Gutenberg
+=============================
+
+We will update this book if we find any errors.
+
+This book can be found under: http://www.gutenberg.org/ebooks/37935
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules, set
+forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg™ electronic works to
+protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.
+They may be modified and printed and given away – you may do
+practically *anything* with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+.. _Project Gutenberg License:
+
+The Full Project Gutenberg License
+----------------------------------
+
+*Please read this before you distribute or use this work.*
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+http://www.gutenberg.org/license.
+
+
+Section 1. General Terms of Use & Redistributing Project Gutenberg™ electronic works
+````````````````````````````````````````````````````````````````````````````````````
+
+**1.A.** By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound by
+the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+**1.B.** “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
+works. See paragraph 1.E below.
+
+**1.C.** The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is in the public domain in the United
+States and you are located in the United States, we do not claim a
+right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting free
+access to electronic works by freely sharing Project Gutenberg™ works
+in compliance with the terms of this agreement for keeping the Project
+Gutenberg™ name associated with the work. You can easily comply with
+the terms of this agreement by keeping this work in the same format
+with its attached full Project Gutenberg™ License when you share it
+without charge with others.
+
+
+
+**1.D.** The copyright laws of the place where you are located also
+govern what you can do with this work. Copyright laws in most
+countries are in a constant state of change. If you are outside the
+United States, check the laws of your country in addition to the terms
+of this agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work.  The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+**1.E.** Unless you have removed all references to Project Gutenberg:
+
+**1.E.1.** The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere at no cost and with
+  almost no restrictions whatsoever. You may copy it, give it away or
+  re-use it under the terms of the Project Gutenberg License included
+  with this eBook or online at http://www.gutenberg.org
+
+**1.E.2.** If an individual Project Gutenberg™ electronic work is
+derived from the public domain (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work
+can be copied and distributed to anyone in the United States without
+paying any fees or charges. If you are redistributing or providing
+access to a work with the phrase “Project Gutenberg” associated with
+or appearing on the work, you must comply either with the requirements
+of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of
+the work and the Project Gutenberg™ trademark as set forth in
+paragraphs 1.E.8 or 1.E.9.
+
+**1.E.3.** If an individual Project Gutenberg™ electronic work is
+posted with the permission of the copyright holder, your use and
+distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
+any additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works posted
+with the permission of the copyright holder found at the beginning of
+this work.
+
+**1.E.4.** Do not unlink or detach or remove the full Project
+Gutenberg™ License terms from this work, or any files containing a
+part of this work or any other work associated with Project
+Gutenberg™.
+
+**1.E.5.** Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+**1.E.6.** You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format other
+than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ web site
+(http://www.gutenberg.org), you must, at no additional cost, fee or
+expense to the user, provide a copy, a means of exporting a copy, or a
+means of obtaining a copy upon request, of the work in its original
+“Plain Vanilla ASCII” or other form. Any alternate format must include
+the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+**1.E.7.** Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+**1.E.8.** You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works provided
+that
+
+.. class:: open
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method you
+  already use to calculate your applicable taxes. The fee is owed to
+  the owner of the Project Gutenberg™ trademark, but he has agreed to
+  donate royalties under this paragraph to the Project Gutenberg
+  Literary Archive Foundation. Royalty payments must be paid within 60
+  days following each date on which you prepare (or are legally
+  required to prepare) your periodic tax returns. Royalty payments
+  should be clearly marked as such and sent to the Project Gutenberg
+  Literary Archive Foundation at the address specified in Section 4,
+  “Information about donations to the Project Gutenberg Literary
+  Archive Foundation.”
+
+- You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+- You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+**1.E.9.** If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and
+Michael Hart, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
+
+**1.F.**
+
+**1.F.1.** Project Gutenberg volunteers and employees expend
+considerable effort to identify, do copyright research on, transcribe
+and proofread public domain works in creating the Project Gutenberg™
+collection. Despite these efforts, Project Gutenberg™ electronic
+works, and the medium on which they may be stored, may contain
+“Defects,” such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+**1.F.2.** LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the
+“Right of Replacement or Refund” described in paragraph 1.F.3, the
+Project Gutenberg Literary Archive Foundation, the owner of the
+Project Gutenberg™ trademark, and any other party distributing a
+Project Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+**1.F.3.** LIMITED RIGHT OF REPLACEMENT OR REFUND – If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+**1.F.4.** Except for the limited right of replacement or refund set
+forth in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH
+NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+**1.F.5.** Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+**1.F.6.** INDEMNITY – You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+``````````````````````````````````````````````````````````````
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will remain
+freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org .
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+``````````````````````````````````````````````````````````````````````````````
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf . Contributions to the
+Project Gutenberg Literary Archive Foundation are tax deductible to
+the full extent permitted by U.S.  federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are
+scattered throughout numerous locations. Its business office is
+located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
+
+For additional contact information:
+
+ | Dr. Gregory B. Newby
+ | Chief Executive and Director
+ | gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+```````````````````````````````````````````````````````````````````````````````````````````
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array of
+equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status
+with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5. General Information About Project Gutenberg™ electronic works.
+`````````````````````````````````````````````````````````````````````````
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the
+U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected *editions* of our eBooks replace the old file and take over
+the old filename and etext number. The replaced older file is
+renamed. *Versions* based on separate sources are treated as new
+eBooks receiving new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search
+facility:
+
+  http://www.gutenberg.org
+            
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe
+to our email newsletter to hear about new eBooks.
+
