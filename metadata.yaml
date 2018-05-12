@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37422
     wikipedia: http://it.wikipedia.org/wiki/Roberto_Bracco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37935#Una-donna
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2011-11-05'
 gutenberg_type: Text
